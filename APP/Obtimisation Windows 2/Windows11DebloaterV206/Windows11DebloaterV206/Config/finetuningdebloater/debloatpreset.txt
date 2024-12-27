@@ -1,0 +1,162 @@
+<#browsersthird#>
+
+<#communicationsthird#>
+
+<#developmentthird#>
+
+<#documentthird#>
+	"InstallNotepadplusplus"
+
+<#gamesthird#>
+
+<#microsofttoolsthird#>
+
+<#multimediatoolsthird#>
+	"InstallVLCVideoPlayer"
+
+<#protoolsthird#>
+
+<#utilitiesthird#>
+	"Install7Zip"
+
+<#windowsapps#>
+
+<#privacytelemetry#>
+	"DisableDiagTrackService",
+	"MinimalDiagnosticDataLevel",
+	"DisableErrorReporting",
+	"NeverFeedbackFrequency",
+	"DisableSigninInfo",
+	"DisableLanguageListAccess",
+	"DisableAdvertisingID",
+	"HideWindowsWelcomeExperience",
+	"DisableWindowsTips",
+	"HideSettingsSuggestedContent",
+	"DisableAppsSilentInstalling",
+	"DisableWhatsNewInWindows",
+	"DisableBingSearch",
+	"HideBrowsingHistory"
+
+<#uiperson#>
+	"ShowThisPC",
+	"EnableWindows10FileExplorer",
+	"DisableCheckBoxes",
+	"EnableHiddenItems",
+	"ShowFileExtensions",
+	"ShowMergeConflicts",
+	"ThisPCOpenFileExplorerTo",
+	"DisableFileExplorerCompactMode",
+	"HideOneDriveFileExplorerAd",
+	"DisableSnapAssist",
+	"DetailedFileTransferDialog",
+	"EnableRecycleBinDeleteConfirmation",
+	"HideQuickAccessRecentFiles",
+	"LeftTaskbarAlignment",
+	"HideTaskbarSearch",
+	"HideTaskViewButton",
+	"HideTaskbarWidgets",
+	"HideCopilotButton",
+	"ShowSecondsInSystemClock",
+	"HideTaskbarChat",
+	"DarkWindowsColorMode",
+	"DarkAppColorMode",
+	"DisableFirstLogonAnimation",
+	"MaxJPEGWallpapersQuality",
+	"ExpandedTaskManagerWindow",	
+	"DisableShortcutsSuffix",
+	"EnablePrtScnSnippingTool",
+	"DisableAppsLanguageSwitch",
+	"DisableAeroShaking",
+	"NoneFolderGroupBy",
+	"DisableNavigationPaneExpand"
+
+<#onedrive#>
+	"UninstallOneDrive"
+
+<#system#>
+	"EnableStorageSense",
+	"EnableStorageSenseTempFiles",
+	"MonthStorageSenseFrequency",
+	"DisableHibernation",
+	"DisableWin32LongPathLimit",
+	"EnableBSoDStopError",
+	"NeverAdminApprovalMode",
+	"EnableMappedDrivesAppElevatedAccess",
+	"DisableDeliveryOptimization",
+	"EnableWaitNetworkStartup",
+	"DisableWindowsManageDefaultPrinter",
+	"EnableUpdateMicrosoftProducts",
+	"HighPowerPlan",
+	"EnableLatestInstalledNET",
+	"DisableNetworkAdaptersSavePower",
+	"EnglishInputMethod",
+	"DesktopWinPrtScrFolder",
+	"AutomaticallyRecommendedTroubleshooting",
+	"EnableFoldersLaunchSeparateProcess",
+	"DisableReservedStorage",
+	"DisableF1HelpPage",
+	"EnableNumLock",
+	"DisableStickyShift",
+	"DisableAutoplay",
+	"DisableThumbnailCacheRemoval",
+	"EnableSaveRestartableApps",
+	"EnableNetworkDiscovery",
+	"ShowRestartNotification",
+	"EnableRestartDeviceAfterUpdate",
+	"AutomaticallyActiveHours",
+	"DisableWindowsLatestUpdate",
+	"WindowsTerminalDefaultTerminalApp",
+	"DisableSATADrivesRemovableMedia"
+
+<#startmenu#>
+	"HideRecentlyAddedApps",
+	"ElevatedRunPowerShellShortcut"
+
+<#uwpapps#>
+	"DisableCortanaAutostart",
+	"DisableTeamsAutostart"
+
+<#gaming#>
+	"DisableXboxGameTips",
+	"EnableGPUScheduling"
+
+<#defendersecurity#>
+	"EnableNetworkProtection",
+	"EnablePUAppsDetection",
+	"EnableDefenderSandbox",
+	"EnableAuditProcess",
+	"EnableCommandLineProcessAudit",
+	"EnableEventViewerCustomView",
+	"EnablePowerShellModulesLogging",
+	"EnablePowerShellScriptsLogging",
+	"DisableAppsSmartScreen",
+	"DisableSaveZoneInformation",
+	"DisableWindowsScriptHost",
+	"DisableWindowsSandbox"
+
+<#contextmenu#>
+	"ShowMSIExtractContext",
+	"ShowCABInstallContext",
+	"ShowRunAsDifferentUserContext",
+	"HideCastToDeviceContext",
+	"HideShareContext",
+	"HideEditWithClipchampContext",
+	"HideCreateANewVideoContext",
+	"HidePrintCMDContext",
+	"HideIncludeInLibraryContext",
+	"HideSendToContext",
+	"HideBitLockerContext",
+	"HideCompressedFolderNewContext",
+	"EnableMultipleInvokeContext",
+	"HideUseStoreOpenWith",
+	"HideOpenWindowsTerminalContext",
+	"EnableOpenWindowsTerminalAdminContext",
+	"DisableWindows10ContextMenu"
+	
+<#other#>
+	"LargeTaskbarSize",
+	"NeverCombineTaskbar",
+	"LargeIconsControlPanelView",
+	"ShowMorePinsStartLayout"
+
+<#end#>

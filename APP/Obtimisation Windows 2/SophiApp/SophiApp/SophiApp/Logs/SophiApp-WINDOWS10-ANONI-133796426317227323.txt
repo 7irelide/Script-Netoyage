@@ -1,0 +1,1796 @@
+Windows 10 Pro 22H2 build 19045.4170
+Computer name: WINDOWS10-ANONI
+User: Fabien
+User domain: WINDOWS10-ANONI
+User culture: French (France)
+User region: France
+App version: 1.0.97.0
+App is release: True
+App folder: "C:\Users\Fabien\Desktop\SophiApp\SophiApp\"
+App localization: FR
+App theme: DARK
+App has access to Internet: True
+Release version is available: 1.0.97
+Pre-release version is available: 1.0.97
+No update required
+
+An error occured in element: 313
+Information: PC is not domain-joined
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 211
+Information: The UWP package Microsoft.549981C3F5F10 wasn't found in OS
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 500
+Information: The UWP package Microsoft.Windows.Photos found in OS
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 905
+Information: The UWP package Microsoft.MSPaint wasn't found in OS
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 601
+Information: The UWP package Microsoft.XboxGamingOverlay or Microsoft.GamingApp wasn't found in OS
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 501
+Information: The UWP package Microsoft.549981C3F5F10 wasn't found in OS
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 914
+Information: The UWP package Microsoft.Windows.Photos wasn't found in OS
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 915
+Information: The UWP package Microsoft.Windows.Photos wasn't found in OS
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 926
+Information: The UWP package Microsoft.WindowsTerminal wasn't found in OS
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 927
+Information: The UWP package Microsoft.WindowsTerminal wasn't found in OS
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 602
+Information: Video adapter DAC type should not be a internal or null. You adapter type is: 
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 109
+Information: Scheduled task ProgramDataUpdater wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 110
+Information: Scheduled task Proxy wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 111
+Information: Scheduled task Consolidator wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 112
+Information: Scheduled task UsbCeip wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 113
+Information: Scheduled task Microsoft-Windows-DiskDiagnosticDataCollector wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 116
+Information: Scheduled task FamilySafetyMonitor wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 345
+Information: Une ou plusieurs erreurs se sont produites.
+The method that caused the error: System.Threading.Tasks.Task
+
+An error occured in element: 349
+Information: OneDrive is not installed on this PC
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 355
+Information: File does not exist "windowsdesktop-runtime-6.*-win-x86.exe"
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 358
+Information: File does not exist "windowsdesktop-runtime-6.*-win-x64.exe"
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 359
+Information: Wrong GeoId. Expected value 203, received 84
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 109
+Information: Scheduled task ProgramDataUpdater wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 110
+Information: Scheduled task Proxy wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 111
+Information: Scheduled task Consolidator wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 112
+Information: Scheduled task UsbCeip wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 113
+Information: Scheduled task Microsoft-Windows-DiskDiagnosticDataCollector wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 116
+Information: Scheduled task FamilySafetyMonitor wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 349
+Information: OneDrive is not installed on this PC
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 355
+Information: File does not exist "windowsdesktop-runtime-6.*-win-x86.exe"
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 358
+Information: File does not exist "windowsdesktop-runtime-6.*-win-x64.exe"
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 109
+Information: Scheduled task ProgramDataUpdater wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 110
+Information: Scheduled task Proxy wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 111
+Information: Scheduled task Consolidator wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 112
+Information: Scheduled task UsbCeip wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 113
+Information: Scheduled task Microsoft-Windows-DiskDiagnosticDataCollector wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 116
+Information: Scheduled task FamilySafetyMonitor wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 349
+Information: OneDrive is not installed on this PC
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 355
+Information: File does not exist "windowsdesktop-runtime-6.*-win-x86.exe"
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 358
+Information: File does not exist "windowsdesktop-runtime-6.*-win-x64.exe"
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 109
+Information: Scheduled task ProgramDataUpdater wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 110
+Information: Scheduled task Proxy wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 111
+Information: Scheduled task Consolidator wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 112
+Information: Scheduled task UsbCeip wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 113
+Information: Scheduled task Microsoft-Windows-DiskDiagnosticDataCollector wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 116
+Information: Scheduled task FamilySafetyMonitor wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 349
+Information: OneDrive is not installed on this PC
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 355
+Information: File does not exist "windowsdesktop-runtime-6.*-win-x86.exe"
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 358
+Information: File does not exist "windowsdesktop-runtime-6.*-win-x64.exe"
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 109
+Information: Scheduled task ProgramDataUpdater wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 110
+Information: Scheduled task Proxy wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 111
+Information: Scheduled task Consolidator wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 112
+Information: Scheduled task UsbCeip wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 113
+Information: Scheduled task Microsoft-Windows-DiskDiagnosticDataCollector wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 116
+Information: Scheduled task FamilySafetyMonitor wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 349
+Information: OneDrive is not installed on this PC
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 355
+Information: File does not exist "windowsdesktop-runtime-6.*-win-x86.exe"
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 358
+Information: File does not exist "windowsdesktop-runtime-6.*-win-x64.exe"
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 109
+Information: Scheduled task ProgramDataUpdater wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 110
+Information: Scheduled task Proxy wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 111
+Information: Scheduled task Consolidator wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 112
+Information: Scheduled task UsbCeip wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 113
+Information: Scheduled task Microsoft-Windows-DiskDiagnosticDataCollector wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 116
+Information: Scheduled task FamilySafetyMonitor wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 349
+Information: OneDrive is not installed on this PC
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 355
+Information: File does not exist "windowsdesktop-runtime-6.*-win-x86.exe"
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 358
+Information: File does not exist "windowsdesktop-runtime-6.*-win-x64.exe"
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 109
+Information: Scheduled task ProgramDataUpdater wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 110
+Information: Scheduled task Proxy wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 111
+Information: Scheduled task Consolidator wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 112
+Information: Scheduled task UsbCeip wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 113
+Information: Scheduled task Microsoft-Windows-DiskDiagnosticDataCollector wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 116
+Information: Scheduled task FamilySafetyMonitor wasn't found in OS
+The method that caused the error: SophiApp.Helpers.ScheduledTaskHelper
+
+An error occured in element: 349
+Information: OneDrive is not installed on this PC
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 355
+Information: File does not exist "windowsdesktop-runtime-6.*-win-x86.exe"
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+An error occured in element: 358
+Information: File does not exist "windowsdesktop-runtime-6.*-win-x64.exe"
+The method that caused the error: SophiApp.Customisations.CustomisationStatus
+
+The 100 element was initialized in 1,022 second(s)
+The 101 element was initialized in 0,002 second(s)
+The 104 element was initialized in 0,015 second(s)
+The 105 element was initialized in 0,001 second(s)
+The 108 element was initialized in 0,091 second(s)
+The 118 element was initialized in 0,001 second(s)
+The 119 element was initialized in 0,000 second(s)
+The 120 element was initialized in 0,000 second(s)
+The 121 element was initialized in 0,000 second(s)
+The 122 element was initialized in 0,000 second(s)
+The 123 element was initialized in 0,001 second(s)
+The 124 element was initialized in 0,000 second(s)
+The 125 element was initialized in 0,000 second(s)
+The 126 element was initialized in 0,000 second(s)
+The 127 element was initialized in 0,000 second(s)
+The 200 element was initialized in 0,004 second(s)
+The 204 element was initialized in 0,000 second(s)
+The 205 element was initialized in 0,000 second(s)
+The 206 element was initialized in 0,001 second(s)
+The 207 element was initialized in 0,000 second(s)
+The 208 element was initialized in 0,001 second(s)
+The 211 element was initialized in 0,315 second(s)
+The 213 element was initialized in 0,000 second(s)
+The 214 element was initialized in 0,000 second(s)
+The 216 element was initialized in 0,004 second(s)
+The 219 element was initialized in 0,001 second(s)
+The 220 element was initialized in 0,001 second(s)
+The 221 element was initialized in 0,001 second(s)
+The 222 element was initialized in 0,000 second(s)
+The 223 element was initialized in 0,001 second(s)
+The 228 element was initialized in 0,000 second(s)
+The 231 element was initialized in 0,000 second(s)
+The 232 element was initialized in 0,000 second(s)
+The 233 element was initialized in 0,001 second(s)
+The 237 element was initialized in 0,000 second(s)
+The 238 element was initialized in 0,000 second(s)
+The 239 element was initialized in 0,001 second(s)
+The 240 element was initialized in 0,009 second(s)
+The 242 element was initialized in 0,004 second(s)
+The 246 element was initialized in 0,001 second(s)
+The 249 element was initialized in 0,001 second(s)
+The 252 element was initialized in 0,000 second(s)
+The 253 element was initialized in 0,000 second(s)
+The 254 element was initialized in 0,001 second(s)
+The 257 element was initialized in 0,000 second(s)
+The 258 element was initialized in 0,000 second(s)
+The 259 element was initialized in 0,000 second(s)
+The 260 element was initialized in 0,000 second(s)
+The 261 element was initialized in 0,000 second(s)
+The 266 element was initialized in 0,004 second(s)
+The 267 element was initialized in 0,000 second(s)
+The 268 element was initialized in 0,049 second(s)
+The 269 element was initialized in 0,001 second(s)
+The 300 element was initialized in 0,005 second(s)
+The 301 element was initialized in 0,001 second(s)
+The 304 element was initialized in 0,001 second(s)
+The 305 element was initialized in 0,001 second(s)
+The 306 element was initialized in 0,000 second(s)
+The 309 element was initialized in 0,000 second(s)
+The 310 element was initialized in 0,000 second(s)
+The 311 element was initialized in 0,000 second(s)
+The 312 element was initialized in 0,001 second(s)
+The 313 element was initialized in 0,118 second(s)
+The 314 element was initialized in 0,000 second(s)
+The 315 element was initialized in 0,884 second(s)
+The 316 element was initialized in 0,095 second(s)
+The 319 element was initialized in 0,001 second(s)
+The 320 element was initialized in 0,231 second(s)
+The 321 element was initialized in 0,000 second(s)
+The 324 element was initialized in 0,001 second(s)
+The 327 element was initialized in 0,000 second(s)
+The 330 element was initialized in 0,000 second(s)
+The 331 element was initialized in 0,000 second(s)
+The 332 element was initialized in 0,000 second(s)
+The 333 element was initialized in 0,001 second(s)
+The 334 element was initialized in 0,000 second(s)
+The 335 element was initialized in 0,000 second(s)
+The 336 element was initialized in 0,000 second(s)
+The 337 element was initialized in 0,001 second(s)
+The 338 element was initialized in 0,000 second(s)
+The 339 element was initialized in 0,009 second(s)
+The 340 element was initialized in 0,000 second(s)
+The 341 element was initialized in 0,000 second(s)
+The 345 element was initialized in 0,026 second(s)
+The 347 element was initialized in 0,004 second(s)
+The 350 element was initialized in 0,209 second(s)
+The 353 element was initialized in 2,241 second(s)
+The 356 element was initialized in 0,566 second(s)
+The 359 element was initialized in 0,001 second(s)
+The 360 element was initialized in 0,025 second(s)
+The 500 element was initialized in 0,323 second(s)
+The 501 element was initialized in 0,024 second(s)
+The 503 element was initialized in 0,002 second(s)
+The 600 element was initialized in 0,005 second(s)
+The 601 element was initialized in 0,323 second(s)
+The 602 element was initialized in 0,106 second(s)
+The 700 element was initialized in 0,102 second(s)
+The 701 element was initialized in 0,001 second(s)
+The 702 element was initialized in 0,001 second(s)
+The 800 element was initialized in 0,277 second(s)
+The 801 element was initialized in 0,047 second(s)
+The 802 element was initialized in 0,053 second(s)
+The 803 element was initialized in 1,837 second(s)
+The 804 element was initialized in 0,065 second(s)
+The 805 element was initialized in 0,058 second(s)
+The 806 element was initialized in 0,001 second(s)
+The 807 element was initialized in 0,000 second(s)
+The 808 element was initialized in 0,041 second(s)
+The 809 element was initialized in 0,000 second(s)
+The 810 element was initialized in 0,000 second(s)
+The 811 element was initialized in 1,365 second(s)
+The 812 element was initialized in 0,000 second(s)
+The 900 element was initialized in 0,000 second(s)
+The 901 element was initialized in 0,000 second(s)
+The 902 element was initialized in 0,000 second(s)
+The 903 element was initialized in 0,000 second(s)
+The 905 element was initialized in 0,266 second(s)
+The 914 element was initialized in 0,024 second(s)
+The 915 element was initialized in 0,005 second(s)
+The 916 element was initialized in 0,001 second(s)
+The 917 element was initialized in 0,001 second(s)
+The 918 element was initialized in 0,001 second(s)
+The 919 element was initialized in 0,000 second(s)
+The 921 element was initialized in 0,001 second(s)
+The 922 element was initialized in 0,001 second(s)
+The 923 element was initialized in 0,000 second(s)
+The 924 element was initialized in 0,000 second(s)
+The 925 element was initialized in 0,000 second(s)
+The 926 element was initialized in 0,005 second(s)
+The 927 element was initialized in 0,006 second(s)
+The 929 element was initialized in 0,000 second(s)
+
+26.12.2024 00:06:37 Debug mode is: False
+26.12.2024 00:06:37 Active view is: Loading
+26.12.2024 00:06:37 Advanced settings is visible: False
+26.12.2024 00:06:37 The "UWP for all users" switch state is: UNCHECKED
+26.12.2024 00:06:37 The OS conditions check started
+26.12.2024 00:06:37 OsVersionCondition run result: True
+26.12.2024 00:06:37 The next condition to be run: OsBuildVersionCondition
+26.12.2024 00:06:37 OsBuildVersionCondition run result: True
+26.12.2024 00:06:37 The next condition to be run: OsFilesCorruptedCondition
+26.12.2024 00:06:37 OsFilesCorruptedCondition run result: True
+26.12.2024 00:06:37 The next condition to be run: RebootRequiredCondition
+26.12.2024 00:06:37 RebootRequiredCondition run result: True
+26.12.2024 00:06:37 The next condition to be run: SingleInstanceCondition
+26.12.2024 00:06:37 SingleInstanceCondition run result: True
+26.12.2024 00:06:37 The next condition to be run: SingleAdminSessionCondition
+26.12.2024 00:06:37 SingleAdminSessionCondition run result: True
+26.12.2024 00:06:37 The next condition to be run: Win10TweakerCondition
+26.12.2024 00:06:37 Win10TweakerCondition run result: True
+26.12.2024 00:06:37 The next condition to be run: SycnexScriptCondition
+26.12.2024 00:06:37 SycnexScriptCondition run result: True
+26.12.2024 00:06:37 The next condition to be run: DefenderCorruptedCondition
+26.12.2024 00:06:37 DefenderCorruptedCondition run result: True
+26.12.2024 00:06:37 The next condition to be run: NewVersionCondition
+26.12.2024 00:06:38 NewVersionCondition run result: True
+26.12.2024 00:06:38 This is last condition
+26.12.2024 00:06:38 It took 1 second(s) to check the OS conditions
+26.12.2024 00:06:38 Active view is: Loading
+26.12.2024 00:06:38 Initialization of the elements started
+26.12.2024 00:06:38 The 266 element changed status to: UNCHECKED
+26.12.2024 00:06:38 The 200 element changed status to: CHECKED
+26.12.2024 00:06:38 The 600 element changed status to: UNCHECKED
+26.12.2024 00:06:38 The 300 element changed status to: UNCHECKED
+26.12.2024 00:06:38 The 301 element changed status to: CHECKED
+26.12.2024 00:06:38 The 201 element changed status to: CHECKED
+26.12.2024 00:06:38 The 202 element changed status to: UNCHECKED
+26.12.2024 00:06:38 The 267 element changed status to: UNCHECKED
+26.12.2024 00:06:38 The 302 element changed status to: CHECKED
+26.12.2024 00:06:38 The 303 element changed status to: UNCHECKED
+26.12.2024 00:06:38 The 204 element changed status to: UNCHECKED
+26.12.2024 00:06:38 The 205 element changed status to: UNCHECKED
+26.12.2024 00:06:38 The 304 element changed status to: CHECKED
+26.12.2024 00:06:38 The 305 element changed status to: UNCHECKED
+26.12.2024 00:06:38 The 306 element changed status to: CHECKED
+26.12.2024 00:06:38 The 206 element changed status to: CHECKED
+26.12.2024 00:06:38 The 307 element changed status to: UNCHECKED
+26.12.2024 00:06:38 The 308 element changed status to: CHECKED
+26.12.2024 00:06:38 The 207 element changed status to: CHECKED
+26.12.2024 00:06:38 The 208 element changed status to: CHECKED
+26.12.2024 00:06:38 The 309 element changed status to: UNCHECKED
+26.12.2024 00:06:38 The 310 element changed status to: CHECKED
+26.12.2024 00:06:38 The 209 element changed status to: CHECKED
+26.12.2024 00:06:38 The 210 element changed status to: UNCHECKED
+26.12.2024 00:06:38 The 311 element changed status to: UNCHECKED
+26.12.2024 00:06:38 The 312 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 268 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 269 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 900 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 901 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 902 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 903 element changed status to: CHECKED
+26.12.2024 00:06:39 The 929 element changed status to: CHECKED
+26.12.2024 00:06:39 The 700 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 701 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 702 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 314 element changed status to: CHECKED
+26.12.2024 00:06:39 The 313 element changed status to: DISABLED
+26.12.2024 00:06:39 The 800 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 211 element changed status to: DISABLED
+26.12.2024 00:06:39 The 500 element changed status to: DISABLED
+26.12.2024 00:06:39 The 906 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 907 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 908 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 909 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 910 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 911 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 912 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 913 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 905 element changed status to: DISABLED
+26.12.2024 00:06:39 The 213 element changed status to: CHECKED
+26.12.2024 00:06:39 The 214 element changed status to: CHECKED
+26.12.2024 00:06:39 The 216 element changed status to: CHECKED
+26.12.2024 00:06:39 The 801 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 601 element changed status to: DISABLED
+26.12.2024 00:06:39 The 217 element changed status to: CHECKED
+26.12.2024 00:06:39 The 218 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 220 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 219 element changed status to: CHECKED
+26.12.2024 00:06:39 The 221 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 222 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 223 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 228 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 231 element changed status to: CHECKED
+26.12.2024 00:06:39 The 232 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 233 element changed status to: CHECKED
+26.12.2024 00:06:39 The 234 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 235 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 236 element changed status to: CHECKED
+26.12.2024 00:06:39 The 237 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 238 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 239 element changed status to: CHECKED
+26.12.2024 00:06:39 The 240 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 242 element changed status to: CHECKED
+26.12.2024 00:06:39 The 243 element changed status to: CHECKED
+26.12.2024 00:06:39 The 501 element changed status to: DISABLED
+26.12.2024 00:06:39 The 914 element changed status to: DISABLED
+26.12.2024 00:06:39 The 244 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 245 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 503 element changed status to: CHECKED
+26.12.2024 00:06:39 The 246 element changed status to: CHECKED
+26.12.2024 00:06:39 The 247 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 504 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 248 element changed status to: CHECKED
+26.12.2024 00:06:39 The 249 element changed status to: CHECKED
+26.12.2024 00:06:39 The 250 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 251 element changed status to: CHECKED
+26.12.2024 00:06:39 The 252 element changed status to: CHECKED
+26.12.2024 00:06:39 The 253 element changed status to: CHECKED
+26.12.2024 00:06:39 The 254 element changed status to: CHECKED
+26.12.2024 00:06:39 The 255 element changed status to: CHECKED
+26.12.2024 00:06:39 The 256 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 257 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 915 element changed status to: DISABLED
+26.12.2024 00:06:39 The 258 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 259 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 916 element changed status to: CHECKED
+26.12.2024 00:06:39 The 260 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 261 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 917 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 918 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 919 element changed status to: CHECKED
+26.12.2024 00:06:39 The 921 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 922 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 923 element changed status to: CHECKED
+26.12.2024 00:06:39 The 924 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 925 element changed status to: CHECKED
+26.12.2024 00:06:39 The 926 element changed status to: DISABLED
+26.12.2024 00:06:39 The 927 element changed status to: DISABLED
+26.12.2024 00:06:39 The 802 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 602 element changed status to: DISABLED
+26.12.2024 00:06:39 The 315 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 316 element changed status to: CHECKED
+26.12.2024 00:06:39 The 100 element changed status to: UNCHECKED
+26.12.2024 00:06:39 The 101 element changed status to: CHECKED
+26.12.2024 00:06:39 The 102 element changed status to: CHECKED
+26.12.2024 00:06:39 The 103 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 104 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 105 element changed status to: CHECKED
+26.12.2024 00:06:40 The 106 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 107 element changed status to: CHECKED
+26.12.2024 00:06:40 The 108 element changed status to: CHECKED
+26.12.2024 00:06:40 The 109 element changed status to: DISABLED
+26.12.2024 00:06:40 The 110 element changed status to: DISABLED
+26.12.2024 00:06:40 The 111 element changed status to: DISABLED
+26.12.2024 00:06:40 The 112 element changed status to: DISABLED
+26.12.2024 00:06:40 The 113 element changed status to: DISABLED
+26.12.2024 00:06:40 The 114 element changed status to: CHECKED
+26.12.2024 00:06:40 The 317 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 318 element changed status to: CHECKED
+26.12.2024 00:06:40 The 319 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 115 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 116 element changed status to: DISABLED
+26.12.2024 00:06:40 The 117 element changed status to: CHECKED
+26.12.2024 00:06:40 The 118 element changed status to: CHECKED
+26.12.2024 00:06:40 The 119 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 120 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 121 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 122 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 123 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 124 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 125 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 126 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 127 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 320 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 321 element changed status to: CHECKED
+26.12.2024 00:06:40 The 322 element changed status to: CHECKED
+26.12.2024 00:06:40 The 323 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 324 element changed status to: CHECKED
+26.12.2024 00:06:40 The 325 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 326 element changed status to: CHECKED
+26.12.2024 00:06:40 The 327 element changed status to: CHECKED
+26.12.2024 00:06:40 The 328 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 329 element changed status to: CHECKED
+26.12.2024 00:06:40 The 330 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 331 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 332 element changed status to: CHECKED
+26.12.2024 00:06:40 The 333 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 334 element changed status to: CHECKED
+26.12.2024 00:06:40 The 335 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 336 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 337 element changed status to: CHECKED
+26.12.2024 00:06:40 The 338 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 339 element changed status to: CHECKED
+26.12.2024 00:06:40 The 340 element changed status to: CHECKED
+26.12.2024 00:06:40 The 341 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 345 element changed status to: CHECKED
+26.12.2024 00:06:40 The 345 element changed status to: DISABLED
+26.12.2024 00:06:40 The 347 element changed status to: CHECKED
+26.12.2024 00:06:40 The 348 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 349 element changed status to: DISABLED
+26.12.2024 00:06:40 The 350 element changed status to: CHECKED
+26.12.2024 00:06:40 The 351 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 352 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 360 element changed status to: CHECKED
+26.12.2024 00:06:40 The 361 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 362 element changed status to: UNCHECKED
+26.12.2024 00:06:40 The 353 element changed status to: CHECKED
+26.12.2024 00:06:41 The 803 element changed status to: UNCHECKED
+26.12.2024 00:06:41 The 804 element changed status to: UNCHECKED
+26.12.2024 00:06:41 The 805 element changed status to: UNCHECKED
+26.12.2024 00:06:41 The 806 element changed status to: UNCHECKED
+26.12.2024 00:06:41 The 807 element changed status to: UNCHECKED
+26.12.2024 00:06:41 The 808 element changed status to: CHECKED
+26.12.2024 00:06:41 The 809 element changed status to: CHECKED
+26.12.2024 00:06:41 The 810 element changed status to: CHECKED
+26.12.2024 00:06:42 The 811 element changed status to: UNCHECKED
+26.12.2024 00:06:42 The 812 element changed status to: CHECKED
+26.12.2024 00:06:42 The 813 element changed status to: CHECKED
+26.12.2024 00:06:42 The 814 element changed status to: UNCHECKED
+26.12.2024 00:06:42 The 354 element changed status to: UNCHECKED
+26.12.2024 00:06:42 The 356 element changed status to: CHECKED
+26.12.2024 00:06:42 The 355 element changed status to: DISABLED
+26.12.2024 00:06:43 The 357 element changed status to: UNCHECKED
+26.12.2024 00:06:43 The 358 element changed status to: DISABLED
+26.12.2024 00:06:43 The 359 element changed status to: DISABLED
+26.12.2024 00:06:43 It took 4 second(s) to initialize elements
+26.12.2024 00:06:43 Initialization of the UWP elements started
+26.12.2024 00:06:45 It took 2 second(s) to initialize the UWP elements
+26.12.2024 00:06:45 Active view is: Privacy
+26.12.2024 00:06:52 The 100 element changed status to: CHECKED
+26.12.2024 00:06:58 The 102 element changed status to: UNCHECKED
+26.12.2024 00:06:58 The 103 element changed status to: CHECKED
+26.12.2024 00:07:30 The 114 element changed status to: UNCHECKED
+26.12.2024 00:07:37 The 117 element changed status to: UNCHECKED
+26.12.2024 00:09:08 Applying 4 setting(s) started
+26.12.2024 00:09:08 Customization action 100 with parameter True has been successfully applied
+26.12.2024 00:09:08 Customization action 103 with parameter True has been successfully applied
+26.12.2024 00:09:08 Customization action 114 with parameter False has been successfully applied
+26.12.2024 00:09:08 Customization action 117 with parameter False has been successfully applied
+26.12.2024 00:09:08 The 503 element changed status to: CHECKED
+26.12.2024 00:09:08 The 200 element changed status to: CHECKED
+26.12.2024 00:09:08 The 266 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 201 element changed status to: CHECKED
+26.12.2024 00:09:08 The 300 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 267 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 301 element changed status to: CHECKED
+26.12.2024 00:09:08 The 202 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 204 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 302 element changed status to: CHECKED
+26.12.2024 00:09:08 The 205 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 303 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 206 element changed status to: CHECKED
+26.12.2024 00:09:08 The 304 element changed status to: CHECKED
+26.12.2024 00:09:08 The 207 element changed status to: CHECKED
+26.12.2024 00:09:08 The 208 element changed status to: CHECKED
+26.12.2024 00:09:08 The 305 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 306 element changed status to: CHECKED
+26.12.2024 00:09:08 The 900 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 600 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 209 element changed status to: CHECKED
+26.12.2024 00:09:08 The 901 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 210 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 213 element changed status to: CHECKED
+26.12.2024 00:09:08 The 214 element changed status to: CHECKED
+26.12.2024 00:09:08 The 216 element changed status to: CHECKED
+26.12.2024 00:09:08 The 902 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 217 element changed status to: CHECKED
+26.12.2024 00:09:08 The 218 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 903 element changed status to: CHECKED
+26.12.2024 00:09:08 The 929 element changed status to: CHECKED
+26.12.2024 00:09:08 The 220 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 219 element changed status to: CHECKED
+26.12.2024 00:09:08 The 221 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 222 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 307 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 308 element changed status to: CHECKED
+26.12.2024 00:09:08 The 223 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 309 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 228 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 231 element changed status to: CHECKED
+26.12.2024 00:09:08 The 310 element changed status to: CHECKED
+26.12.2024 00:09:08 The 232 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 233 element changed status to: CHECKED
+26.12.2024 00:09:08 The 234 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 235 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 236 element changed status to: CHECKED
+26.12.2024 00:09:08 The 237 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 238 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 311 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 312 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 239 element changed status to: CHECKED
+26.12.2024 00:09:08 The 314 element changed status to: CHECKED
+26.12.2024 00:09:08 The 240 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 242 element changed status to: CHECKED
+26.12.2024 00:09:08 The 243 element changed status to: CHECKED
+26.12.2024 00:09:08 The 244 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 245 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 246 element changed status to: CHECKED
+26.12.2024 00:09:08 The 247 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 248 element changed status to: CHECKED
+26.12.2024 00:09:08 The 249 element changed status to: CHECKED
+26.12.2024 00:09:08 The 250 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 251 element changed status to: CHECKED
+26.12.2024 00:09:08 The 252 element changed status to: CHECKED
+26.12.2024 00:09:08 The 253 element changed status to: CHECKED
+26.12.2024 00:09:08 The 254 element changed status to: CHECKED
+26.12.2024 00:09:08 The 255 element changed status to: CHECKED
+26.12.2024 00:09:08 The 256 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 257 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 258 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 259 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 260 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 261 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 504 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 916 element changed status to: CHECKED
+26.12.2024 00:09:08 The 917 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 918 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 919 element changed status to: CHECKED
+26.12.2024 00:09:08 The 921 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 922 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 923 element changed status to: CHECKED
+26.12.2024 00:09:08 The 924 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 925 element changed status to: CHECKED
+26.12.2024 00:09:08 The 268 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 269 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 700 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 701 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 702 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 100 element changed status to: CHECKED
+26.12.2024 00:09:08 The 101 element changed status to: CHECKED
+26.12.2024 00:09:08 The 102 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 103 element changed status to: CHECKED
+26.12.2024 00:09:08 The 104 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 105 element changed status to: CHECKED
+26.12.2024 00:09:08 The 106 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 107 element changed status to: CHECKED
+26.12.2024 00:09:08 The 108 element changed status to: CHECKED
+26.12.2024 00:09:08 The 109 element changed status to: DISABLED
+26.12.2024 00:09:08 The 110 element changed status to: DISABLED
+26.12.2024 00:09:08 The 111 element changed status to: DISABLED
+26.12.2024 00:09:08 The 112 element changed status to: DISABLED
+26.12.2024 00:09:08 The 113 element changed status to: DISABLED
+26.12.2024 00:09:08 The 114 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 315 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 316 element changed status to: CHECKED
+26.12.2024 00:09:08 The 115 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 116 element changed status to: DISABLED
+26.12.2024 00:09:08 The 117 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 118 element changed status to: CHECKED
+26.12.2024 00:09:08 The 119 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 120 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 121 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 122 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 123 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 124 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 125 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 126 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 127 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 317 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 318 element changed status to: CHECKED
+26.12.2024 00:09:08 The 319 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 800 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 320 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 321 element changed status to: CHECKED
+26.12.2024 00:09:08 The 322 element changed status to: CHECKED
+26.12.2024 00:09:08 The 323 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 324 element changed status to: CHECKED
+26.12.2024 00:09:08 The 325 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 326 element changed status to: CHECKED
+26.12.2024 00:09:08 The 327 element changed status to: CHECKED
+26.12.2024 00:09:08 The 328 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 329 element changed status to: CHECKED
+26.12.2024 00:09:08 The 330 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 331 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 332 element changed status to: CHECKED
+26.12.2024 00:09:08 The 333 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 334 element changed status to: CHECKED
+26.12.2024 00:09:08 The 335 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 336 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 337 element changed status to: CHECKED
+26.12.2024 00:09:08 The 338 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 801 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 339 element changed status to: CHECKED
+26.12.2024 00:09:08 The 340 element changed status to: CHECKED
+26.12.2024 00:09:08 The 341 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 347 element changed status to: CHECKED
+26.12.2024 00:09:08 The 348 element changed status to: UNCHECKED
+26.12.2024 00:09:08 The 350 element changed status to: CHECKED
+26.12.2024 00:09:08 The 349 element changed status to: DISABLED
+26.12.2024 00:09:08 The 802 element changed status to: UNCHECKED
+26.12.2024 00:09:09 The 803 element changed status to: UNCHECKED
+26.12.2024 00:09:09 The 804 element changed status to: UNCHECKED
+26.12.2024 00:09:09 The 805 element changed status to: UNCHECKED
+26.12.2024 00:09:09 The 806 element changed status to: UNCHECKED
+26.12.2024 00:09:09 The 807 element changed status to: UNCHECKED
+26.12.2024 00:09:09 The 808 element changed status to: CHECKED
+26.12.2024 00:09:09 The 809 element changed status to: CHECKED
+26.12.2024 00:09:09 The 810 element changed status to: CHECKED
+26.12.2024 00:09:10 The 811 element changed status to: UNCHECKED
+26.12.2024 00:09:10 The 812 element changed status to: CHECKED
+26.12.2024 00:09:10 The 813 element changed status to: CHECKED
+26.12.2024 00:09:10 The 814 element changed status to: UNCHECKED
+26.12.2024 00:09:20 The 351 element changed status to: UNCHECKED
+26.12.2024 00:09:20 The 352 element changed status to: UNCHECKED
+26.12.2024 00:09:20 The 360 element changed status to: CHECKED
+26.12.2024 00:09:20 The 361 element changed status to: UNCHECKED
+26.12.2024 00:09:20 The 362 element changed status to: UNCHECKED
+26.12.2024 00:09:20 The 353 element changed status to: CHECKED
+26.12.2024 00:09:22 The 354 element changed status to: UNCHECKED
+26.12.2024 00:09:22 The 356 element changed status to: CHECKED
+26.12.2024 00:09:22 The 355 element changed status to: DISABLED
+26.12.2024 00:09:23 The 357 element changed status to: UNCHECKED
+26.12.2024 00:09:23 Initialization of the UWP elements started
+26.12.2024 00:09:23 The 358 element changed status to: DISABLED
+26.12.2024 00:09:24 It took 1 second(s) to initialize the UWP elements
+26.12.2024 00:09:35 Applying setting(s) took 27 second(s)
+26.12.2024 00:09:41 Active view is: Personalization
+26.12.2024 00:10:17 The 213 element changed status to: UNCHECKED
+26.12.2024 00:10:51 The 220 element changed status to: CHECKED
+26.12.2024 00:11:21 The 231 element changed status to: UNCHECKED
+26.12.2024 00:12:04 The 239 element changed status to: UNCHECKED
+26.12.2024 00:13:30 The 260 element changed status to: CHECKED
+26.12.2024 00:13:31 The 260 element changed status to: UNCHECKED
+26.12.2024 00:13:49 Applying 4 setting(s) started
+26.12.2024 00:13:49 Customization action 213 with parameter False has been successfully applied
+26.12.2024 00:13:49 Customization action 220 with parameter True has been successfully applied
+26.12.2024 00:13:49 Customization action 231 with parameter False has been successfully applied
+26.12.2024 00:13:49 Customization action 239 with parameter False has been successfully applied
+26.12.2024 00:13:49 The 200 element changed status to: CHECKED
+26.12.2024 00:13:49 The 900 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 201 element changed status to: CHECKED
+26.12.2024 00:13:49 The 901 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 266 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 503 element changed status to: CHECKED
+26.12.2024 00:13:49 The 202 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 300 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 301 element changed status to: CHECKED
+26.12.2024 00:13:49 The 267 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 204 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 902 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 205 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 600 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 903 element changed status to: CHECKED
+26.12.2024 00:13:49 The 206 element changed status to: CHECKED
+26.12.2024 00:13:49 The 302 element changed status to: CHECKED
+26.12.2024 00:13:49 The 929 element changed status to: CHECKED
+26.12.2024 00:13:49 The 207 element changed status to: CHECKED
+26.12.2024 00:13:49 The 208 element changed status to: CHECKED
+26.12.2024 00:13:49 The 303 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 209 element changed status to: CHECKED
+26.12.2024 00:13:49 The 210 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 304 element changed status to: CHECKED
+26.12.2024 00:13:49 The 213 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 305 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 306 element changed status to: CHECKED
+26.12.2024 00:13:49 The 214 element changed status to: CHECKED
+26.12.2024 00:13:49 The 216 element changed status to: CHECKED
+26.12.2024 00:13:49 The 217 element changed status to: CHECKED
+26.12.2024 00:13:49 The 218 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 220 element changed status to: CHECKED
+26.12.2024 00:13:49 The 219 element changed status to: CHECKED
+26.12.2024 00:13:49 The 221 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 222 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 223 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 307 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 228 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 308 element changed status to: CHECKED
+26.12.2024 00:13:49 The 231 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 309 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 310 element changed status to: CHECKED
+26.12.2024 00:13:49 The 311 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 232 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 233 element changed status to: CHECKED
+26.12.2024 00:13:49 The 312 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 234 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 235 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 314 element changed status to: CHECKED
+26.12.2024 00:13:49 The 236 element changed status to: CHECKED
+26.12.2024 00:13:49 The 237 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 238 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 239 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 240 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 242 element changed status to: CHECKED
+26.12.2024 00:13:49 The 243 element changed status to: CHECKED
+26.12.2024 00:13:49 The 244 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 245 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 246 element changed status to: CHECKED
+26.12.2024 00:13:49 The 247 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 248 element changed status to: CHECKED
+26.12.2024 00:13:49 The 249 element changed status to: CHECKED
+26.12.2024 00:13:49 The 250 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 251 element changed status to: CHECKED
+26.12.2024 00:13:49 The 252 element changed status to: CHECKED
+26.12.2024 00:13:49 The 253 element changed status to: CHECKED
+26.12.2024 00:13:49 The 254 element changed status to: CHECKED
+26.12.2024 00:13:49 The 255 element changed status to: CHECKED
+26.12.2024 00:13:49 The 256 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 257 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 258 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 259 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 260 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 261 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 504 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 916 element changed status to: CHECKED
+26.12.2024 00:13:49 The 917 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 918 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 919 element changed status to: CHECKED
+26.12.2024 00:13:49 The 921 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 922 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 923 element changed status to: CHECKED
+26.12.2024 00:13:49 The 924 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 925 element changed status to: CHECKED
+26.12.2024 00:13:49 The 268 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 269 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 700 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 701 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 702 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 315 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 316 element changed status to: CHECKED
+26.12.2024 00:13:49 The 100 element changed status to: CHECKED
+26.12.2024 00:13:49 The 101 element changed status to: CHECKED
+26.12.2024 00:13:49 The 102 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 103 element changed status to: CHECKED
+26.12.2024 00:13:49 The 104 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 105 element changed status to: CHECKED
+26.12.2024 00:13:49 The 106 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 107 element changed status to: CHECKED
+26.12.2024 00:13:49 The 108 element changed status to: CHECKED
+26.12.2024 00:13:49 The 109 element changed status to: DISABLED
+26.12.2024 00:13:49 The 110 element changed status to: DISABLED
+26.12.2024 00:13:49 The 111 element changed status to: DISABLED
+26.12.2024 00:13:49 The 112 element changed status to: DISABLED
+26.12.2024 00:13:49 The 113 element changed status to: DISABLED
+26.12.2024 00:13:49 The 114 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 317 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 318 element changed status to: CHECKED
+26.12.2024 00:13:49 The 319 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 115 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 116 element changed status to: DISABLED
+26.12.2024 00:13:49 The 117 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 118 element changed status to: CHECKED
+26.12.2024 00:13:49 The 119 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 120 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 121 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 122 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 123 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 124 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 125 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 126 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 127 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 800 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 801 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 802 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 320 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 321 element changed status to: CHECKED
+26.12.2024 00:13:49 The 322 element changed status to: CHECKED
+26.12.2024 00:13:49 The 323 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 324 element changed status to: CHECKED
+26.12.2024 00:13:49 The 325 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 326 element changed status to: CHECKED
+26.12.2024 00:13:49 The 327 element changed status to: CHECKED
+26.12.2024 00:13:49 The 328 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 329 element changed status to: CHECKED
+26.12.2024 00:13:49 The 330 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 331 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 332 element changed status to: CHECKED
+26.12.2024 00:13:49 The 333 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 334 element changed status to: CHECKED
+26.12.2024 00:13:49 The 335 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 336 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 337 element changed status to: CHECKED
+26.12.2024 00:13:49 The 338 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 339 element changed status to: CHECKED
+26.12.2024 00:13:49 The 340 element changed status to: CHECKED
+26.12.2024 00:13:49 The 341 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 347 element changed status to: CHECKED
+26.12.2024 00:13:49 The 348 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 350 element changed status to: CHECKED
+26.12.2024 00:13:49 The 349 element changed status to: DISABLED
+26.12.2024 00:13:49 The 803 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 804 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 805 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 806 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 807 element changed status to: UNCHECKED
+26.12.2024 00:13:49 The 808 element changed status to: CHECKED
+26.12.2024 00:13:49 The 809 element changed status to: CHECKED
+26.12.2024 00:13:49 The 810 element changed status to: CHECKED
+26.12.2024 00:13:51 The 811 element changed status to: UNCHECKED
+26.12.2024 00:13:51 The 812 element changed status to: CHECKED
+26.12.2024 00:13:51 The 813 element changed status to: CHECKED
+26.12.2024 00:13:51 The 814 element changed status to: UNCHECKED
+26.12.2024 00:14:00 The 351 element changed status to: UNCHECKED
+26.12.2024 00:14:00 The 352 element changed status to: UNCHECKED
+26.12.2024 00:14:00 The 360 element changed status to: CHECKED
+26.12.2024 00:14:00 The 361 element changed status to: UNCHECKED
+26.12.2024 00:14:00 The 362 element changed status to: UNCHECKED
+26.12.2024 00:14:00 The 353 element changed status to: CHECKED
+26.12.2024 00:14:03 The 354 element changed status to: UNCHECKED
+26.12.2024 00:14:03 The 356 element changed status to: CHECKED
+26.12.2024 00:14:03 The 355 element changed status to: DISABLED
+26.12.2024 00:14:03 The 357 element changed status to: UNCHECKED
+26.12.2024 00:14:03 Initialization of the UWP elements started
+26.12.2024 00:14:03 The 358 element changed status to: DISABLED
+26.12.2024 00:14:04 It took 1 second(s) to initialize the UWP elements
+26.12.2024 00:14:16 Applying setting(s) took 27 second(s)
+26.12.2024 00:14:18 Active view is: System
+26.12.2024 00:14:30 The 300 element changed status to: CHECKED
+26.12.2024 00:14:56 The 309 element changed status to: CHECKED
+26.12.2024 00:15:00 The 309 element changed status to: UNCHECKED
+26.12.2024 00:16:17 Applying 1 setting(s) started
+26.12.2024 00:16:17 Customization action 300 with parameter True has been successfully applied
+26.12.2024 00:16:17 The 200 element changed status to: CHECKED
+26.12.2024 00:16:17 The 900 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 300 element changed status to: CHECKED
+26.12.2024 00:16:17 The 201 element changed status to: CHECKED
+26.12.2024 00:16:17 The 301 element changed status to: CHECKED
+26.12.2024 00:16:17 The 901 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 266 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 202 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 302 element changed status to: CHECKED
+26.12.2024 00:16:17 The 303 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 204 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 902 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 304 element changed status to: CHECKED
+26.12.2024 00:16:17 The 267 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 205 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 903 element changed status to: CHECKED
+26.12.2024 00:16:17 The 929 element changed status to: CHECKED
+26.12.2024 00:16:17 The 206 element changed status to: CHECKED
+26.12.2024 00:16:17 The 305 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 306 element changed status to: CHECKED
+26.12.2024 00:16:17 The 207 element changed status to: CHECKED
+26.12.2024 00:16:17 The 307 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 208 element changed status to: CHECKED
+26.12.2024 00:16:17 The 308 element changed status to: CHECKED
+26.12.2024 00:16:17 The 209 element changed status to: CHECKED
+26.12.2024 00:16:17 The 309 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 916 element changed status to: CHECKED
+26.12.2024 00:16:17 The 310 element changed status to: CHECKED
+26.12.2024 00:16:17 The 210 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 268 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 311 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 213 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 214 element changed status to: CHECKED
+26.12.2024 00:16:17 The 312 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 503 element changed status to: CHECKED
+26.12.2024 00:16:17 The 269 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 216 element changed status to: CHECKED
+26.12.2024 00:16:17 The 917 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 314 element changed status to: CHECKED
+26.12.2024 00:16:17 The 217 element changed status to: CHECKED
+26.12.2024 00:16:17 The 504 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 918 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 218 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 600 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 220 element changed status to: CHECKED
+26.12.2024 00:16:17 The 919 element changed status to: CHECKED
+26.12.2024 00:16:17 The 219 element changed status to: CHECKED
+26.12.2024 00:16:17 The 921 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 221 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 222 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 922 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 223 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 923 element changed status to: CHECKED
+26.12.2024 00:16:17 The 924 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 228 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 925 element changed status to: CHECKED
+26.12.2024 00:16:17 The 231 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 232 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 233 element changed status to: CHECKED
+26.12.2024 00:16:17 The 234 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 235 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 236 element changed status to: CHECKED
+26.12.2024 00:16:17 The 237 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 238 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 239 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 240 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 242 element changed status to: CHECKED
+26.12.2024 00:16:17 The 243 element changed status to: CHECKED
+26.12.2024 00:16:17 The 244 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 245 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 246 element changed status to: CHECKED
+26.12.2024 00:16:17 The 247 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 248 element changed status to: CHECKED
+26.12.2024 00:16:17 The 249 element changed status to: CHECKED
+26.12.2024 00:16:17 The 250 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 251 element changed status to: CHECKED
+26.12.2024 00:16:17 The 252 element changed status to: CHECKED
+26.12.2024 00:16:17 The 700 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 253 element changed status to: CHECKED
+26.12.2024 00:16:17 The 254 element changed status to: CHECKED
+26.12.2024 00:16:17 The 255 element changed status to: CHECKED
+26.12.2024 00:16:17 The 256 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 257 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 258 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 701 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 259 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 260 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 261 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 702 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 315 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 316 element changed status to: CHECKED
+26.12.2024 00:16:17 The 100 element changed status to: CHECKED
+26.12.2024 00:16:17 The 101 element changed status to: CHECKED
+26.12.2024 00:16:17 The 102 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 103 element changed status to: CHECKED
+26.12.2024 00:16:17 The 104 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 105 element changed status to: CHECKED
+26.12.2024 00:16:17 The 106 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 107 element changed status to: CHECKED
+26.12.2024 00:16:17 The 108 element changed status to: CHECKED
+26.12.2024 00:16:17 The 109 element changed status to: DISABLED
+26.12.2024 00:16:17 The 110 element changed status to: DISABLED
+26.12.2024 00:16:17 The 111 element changed status to: DISABLED
+26.12.2024 00:16:17 The 112 element changed status to: DISABLED
+26.12.2024 00:16:17 The 113 element changed status to: DISABLED
+26.12.2024 00:16:17 The 114 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 115 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 116 element changed status to: DISABLED
+26.12.2024 00:16:17 The 117 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 118 element changed status to: CHECKED
+26.12.2024 00:16:17 The 119 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 120 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 121 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 122 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 123 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 124 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 125 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 126 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 127 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 317 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 318 element changed status to: CHECKED
+26.12.2024 00:16:17 The 319 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 800 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 801 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 320 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 321 element changed status to: CHECKED
+26.12.2024 00:16:17 The 322 element changed status to: CHECKED
+26.12.2024 00:16:17 The 323 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 324 element changed status to: CHECKED
+26.12.2024 00:16:17 The 325 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 326 element changed status to: CHECKED
+26.12.2024 00:16:17 The 327 element changed status to: CHECKED
+26.12.2024 00:16:17 The 328 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 329 element changed status to: CHECKED
+26.12.2024 00:16:17 The 330 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 331 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 332 element changed status to: CHECKED
+26.12.2024 00:16:17 The 333 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 334 element changed status to: CHECKED
+26.12.2024 00:16:17 The 335 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 336 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 337 element changed status to: CHECKED
+26.12.2024 00:16:17 The 338 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 339 element changed status to: CHECKED
+26.12.2024 00:16:17 The 340 element changed status to: CHECKED
+26.12.2024 00:16:17 The 341 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 347 element changed status to: CHECKED
+26.12.2024 00:16:17 The 348 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 350 element changed status to: CHECKED
+26.12.2024 00:16:17 The 349 element changed status to: DISABLED
+26.12.2024 00:16:17 The 802 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 803 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 804 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 805 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 806 element changed status to: UNCHECKED
+26.12.2024 00:16:17 The 807 element changed status to: UNCHECKED
+26.12.2024 00:16:18 The 808 element changed status to: CHECKED
+26.12.2024 00:16:18 The 809 element changed status to: CHECKED
+26.12.2024 00:16:18 The 810 element changed status to: CHECKED
+26.12.2024 00:16:19 The 811 element changed status to: UNCHECKED
+26.12.2024 00:16:19 The 812 element changed status to: CHECKED
+26.12.2024 00:16:19 The 813 element changed status to: CHECKED
+26.12.2024 00:16:19 The 814 element changed status to: UNCHECKED
+26.12.2024 00:16:28 The 351 element changed status to: UNCHECKED
+26.12.2024 00:16:28 The 352 element changed status to: UNCHECKED
+26.12.2024 00:16:28 The 360 element changed status to: CHECKED
+26.12.2024 00:16:29 The 361 element changed status to: UNCHECKED
+26.12.2024 00:16:29 The 362 element changed status to: UNCHECKED
+26.12.2024 00:16:29 The 353 element changed status to: CHECKED
+26.12.2024 00:16:42 The 354 element changed status to: UNCHECKED
+26.12.2024 00:16:42 The 356 element changed status to: CHECKED
+26.12.2024 00:16:42 The 355 element changed status to: DISABLED
+26.12.2024 00:16:43 The 357 element changed status to: UNCHECKED
+26.12.2024 00:16:43 Initialization of the UWP elements started
+26.12.2024 00:16:43 The 358 element changed status to: DISABLED
+26.12.2024 00:16:43 It took 1 second(s) to initialize the UWP elements
+26.12.2024 00:16:54 Applying setting(s) took 37 second(s)
+26.12.2024 00:16:57 Active view is: UwpApps
+26.12.2024 00:17:13 Active view is: Games
+26.12.2024 00:17:18 Active view is: TaskScheduler
+26.12.2024 00:17:21 The 700 element changed status to: CHECKED
+26.12.2024 00:17:28 The 702 element changed status to: CHECKED
+26.12.2024 00:17:31 Applying 2 setting(s) started
+26.12.2024 00:17:35 Customization action 700 with parameter True has been successfully applied
+26.12.2024 00:17:35 Customization action 702 with parameter True has been successfully applied
+26.12.2024 00:17:35 The 200 element changed status to: CHECKED
+26.12.2024 00:17:35 The 900 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 901 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 902 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 903 element changed status to: CHECKED
+26.12.2024 00:17:35 The 929 element changed status to: CHECKED
+26.12.2024 00:17:35 The 503 element changed status to: CHECKED
+26.12.2024 00:17:35 The 600 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 300 element changed status to: CHECKED
+26.12.2024 00:17:35 The 201 element changed status to: CHECKED
+26.12.2024 00:17:35 The 301 element changed status to: CHECKED
+26.12.2024 00:17:35 The 266 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 202 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 302 element changed status to: CHECKED
+26.12.2024 00:17:35 The 267 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 204 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 303 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 304 element changed status to: CHECKED
+26.12.2024 00:17:35 The 205 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 305 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 306 element changed status to: CHECKED
+26.12.2024 00:17:35 The 206 element changed status to: CHECKED
+26.12.2024 00:17:35 The 307 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 308 element changed status to: CHECKED
+26.12.2024 00:17:35 The 207 element changed status to: CHECKED
+26.12.2024 00:17:35 The 309 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 208 element changed status to: CHECKED
+26.12.2024 00:17:35 The 310 element changed status to: CHECKED
+26.12.2024 00:17:35 The 209 element changed status to: CHECKED
+26.12.2024 00:17:35 The 311 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 312 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 210 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 314 element changed status to: CHECKED
+26.12.2024 00:17:35 The 213 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 214 element changed status to: CHECKED
+26.12.2024 00:17:35 The 216 element changed status to: CHECKED
+26.12.2024 00:17:35 The 217 element changed status to: CHECKED
+26.12.2024 00:17:35 The 218 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 220 element changed status to: CHECKED
+26.12.2024 00:17:35 The 219 element changed status to: CHECKED
+26.12.2024 00:17:35 The 221 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 222 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 223 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 228 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 231 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 232 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 233 element changed status to: CHECKED
+26.12.2024 00:17:35 The 234 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 235 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 236 element changed status to: CHECKED
+26.12.2024 00:17:35 The 237 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 238 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 239 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 240 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 242 element changed status to: CHECKED
+26.12.2024 00:17:35 The 243 element changed status to: CHECKED
+26.12.2024 00:17:35 The 244 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 245 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 246 element changed status to: CHECKED
+26.12.2024 00:17:35 The 247 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 248 element changed status to: CHECKED
+26.12.2024 00:17:35 The 249 element changed status to: CHECKED
+26.12.2024 00:17:35 The 250 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 251 element changed status to: CHECKED
+26.12.2024 00:17:35 The 504 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 252 element changed status to: CHECKED
+26.12.2024 00:17:35 The 253 element changed status to: CHECKED
+26.12.2024 00:17:35 The 916 element changed status to: CHECKED
+26.12.2024 00:17:35 The 254 element changed status to: CHECKED
+26.12.2024 00:17:35 The 255 element changed status to: CHECKED
+26.12.2024 00:17:35 The 917 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 256 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 918 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 257 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 919 element changed status to: CHECKED
+26.12.2024 00:17:35 The 258 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 259 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 921 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 260 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 261 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 922 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 923 element changed status to: CHECKED
+26.12.2024 00:17:35 The 924 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 925 element changed status to: CHECKED
+26.12.2024 00:17:35 The 268 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 269 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 700 element changed status to: CHECKED
+26.12.2024 00:17:35 The 701 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 702 element changed status to: CHECKED
+26.12.2024 00:17:35 The 315 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 316 element changed status to: CHECKED
+26.12.2024 00:17:35 The 100 element changed status to: CHECKED
+26.12.2024 00:17:35 The 101 element changed status to: CHECKED
+26.12.2024 00:17:35 The 102 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 103 element changed status to: CHECKED
+26.12.2024 00:17:35 The 104 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 105 element changed status to: CHECKED
+26.12.2024 00:17:35 The 106 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 107 element changed status to: CHECKED
+26.12.2024 00:17:35 The 108 element changed status to: CHECKED
+26.12.2024 00:17:35 The 109 element changed status to: DISABLED
+26.12.2024 00:17:35 The 110 element changed status to: DISABLED
+26.12.2024 00:17:35 The 111 element changed status to: DISABLED
+26.12.2024 00:17:35 The 112 element changed status to: DISABLED
+26.12.2024 00:17:35 The 113 element changed status to: DISABLED
+26.12.2024 00:17:35 The 114 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 115 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 116 element changed status to: DISABLED
+26.12.2024 00:17:35 The 117 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 118 element changed status to: CHECKED
+26.12.2024 00:17:35 The 119 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 120 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 121 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 122 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 123 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 124 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 125 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 126 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 127 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 317 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 318 element changed status to: CHECKED
+26.12.2024 00:17:35 The 319 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 800 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 320 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 321 element changed status to: CHECKED
+26.12.2024 00:17:35 The 322 element changed status to: CHECKED
+26.12.2024 00:17:35 The 323 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 324 element changed status to: CHECKED
+26.12.2024 00:17:35 The 325 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 326 element changed status to: CHECKED
+26.12.2024 00:17:35 The 327 element changed status to: CHECKED
+26.12.2024 00:17:35 The 328 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 329 element changed status to: CHECKED
+26.12.2024 00:17:35 The 330 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 331 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 332 element changed status to: CHECKED
+26.12.2024 00:17:35 The 333 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 334 element changed status to: CHECKED
+26.12.2024 00:17:35 The 335 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 336 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 337 element changed status to: CHECKED
+26.12.2024 00:17:35 The 338 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 801 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 339 element changed status to: CHECKED
+26.12.2024 00:17:35 The 340 element changed status to: CHECKED
+26.12.2024 00:17:35 The 341 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 347 element changed status to: CHECKED
+26.12.2024 00:17:35 The 348 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 350 element changed status to: CHECKED
+26.12.2024 00:17:35 The 349 element changed status to: DISABLED
+26.12.2024 00:17:35 The 351 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 352 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 360 element changed status to: CHECKED
+26.12.2024 00:17:35 The 802 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 361 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 362 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 353 element changed status to: CHECKED
+26.12.2024 00:17:35 The 803 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 804 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 805 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 806 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 807 element changed status to: UNCHECKED
+26.12.2024 00:17:35 The 808 element changed status to: CHECKED
+26.12.2024 00:17:35 The 809 element changed status to: CHECKED
+26.12.2024 00:17:35 The 810 element changed status to: CHECKED
+26.12.2024 00:17:36 The 354 element changed status to: UNCHECKED
+26.12.2024 00:17:36 The 356 element changed status to: CHECKED
+26.12.2024 00:17:36 The 355 element changed status to: DISABLED
+26.12.2024 00:17:37 The 811 element changed status to: UNCHECKED
+26.12.2024 00:17:37 The 812 element changed status to: CHECKED
+26.12.2024 00:17:37 The 813 element changed status to: CHECKED
+26.12.2024 00:17:37 The 814 element changed status to: UNCHECKED
+26.12.2024 00:17:37 The 357 element changed status to: UNCHECKED
+26.12.2024 00:17:37 Initialization of the UWP elements started
+26.12.2024 00:17:37 The 358 element changed status to: DISABLED
+26.12.2024 00:17:38 It took 1 second(s) to initialize the UWP elements
+26.12.2024 00:17:49 Applying setting(s) took 15 second(s)
+26.12.2024 00:17:53 Active view is: Security
+26.12.2024 00:18:09 The 808 element changed status to: UNCHECKED
+26.12.2024 00:18:25 The 809 element changed status to: UNCHECKED
+26.12.2024 00:18:41 The 810 element changed status to: UNCHECKED
+26.12.2024 00:19:14 The 813 element changed status to: UNCHECKED
+26.12.2024 00:19:14 The 814 element changed status to: CHECKED
+26.12.2024 00:20:03 Applying 4 setting(s) started
+26.12.2024 00:20:03 Customization action 808 with parameter False has been successfully applied
+26.12.2024 00:20:03 Customization action 809 with parameter False has been successfully applied
+26.12.2024 00:20:03 Customization action 810 with parameter False has been successfully applied
+26.12.2024 00:20:03 Customization action 814 with parameter True has been successfully applied
+26.12.2024 00:20:03 The 200 element changed status to: CHECKED
+26.12.2024 00:20:03 The 503 element changed status to: CHECKED
+26.12.2024 00:20:03 The 900 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 266 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 300 element changed status to: CHECKED
+26.12.2024 00:20:03 The 201 element changed status to: CHECKED
+26.12.2024 00:20:03 The 901 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 301 element changed status to: CHECKED
+26.12.2024 00:20:03 The 267 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 202 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 302 element changed status to: CHECKED
+26.12.2024 00:20:03 The 504 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 303 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 902 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 204 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 304 element changed status to: CHECKED
+26.12.2024 00:20:03 The 903 element changed status to: CHECKED
+26.12.2024 00:20:03 The 205 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 268 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 929 element changed status to: CHECKED
+26.12.2024 00:20:03 The 305 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 206 element changed status to: CHECKED
+26.12.2024 00:20:03 The 306 element changed status to: CHECKED
+26.12.2024 00:20:03 The 600 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 307 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 308 element changed status to: CHECKED
+26.12.2024 00:20:03 The 207 element changed status to: CHECKED
+26.12.2024 00:20:03 The 208 element changed status to: CHECKED
+26.12.2024 00:20:03 The 269 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 309 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 209 element changed status to: CHECKED
+26.12.2024 00:20:03 The 916 element changed status to: CHECKED
+26.12.2024 00:20:03 The 210 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 310 element changed status to: CHECKED
+26.12.2024 00:20:03 The 213 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 311 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 917 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 214 element changed status to: CHECKED
+26.12.2024 00:20:03 The 216 element changed status to: CHECKED
+26.12.2024 00:20:03 The 312 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 918 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 217 element changed status to: CHECKED
+26.12.2024 00:20:03 The 314 element changed status to: CHECKED
+26.12.2024 00:20:03 The 218 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 919 element changed status to: CHECKED
+26.12.2024 00:20:03 The 220 element changed status to: CHECKED
+26.12.2024 00:20:03 The 219 element changed status to: CHECKED
+26.12.2024 00:20:03 The 921 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 221 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 922 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 222 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 923 element changed status to: CHECKED
+26.12.2024 00:20:03 The 223 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 924 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 925 element changed status to: CHECKED
+26.12.2024 00:20:03 The 228 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 231 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 232 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 233 element changed status to: CHECKED
+26.12.2024 00:20:03 The 234 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 235 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 236 element changed status to: CHECKED
+26.12.2024 00:20:03 The 237 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 238 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 239 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 240 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 242 element changed status to: CHECKED
+26.12.2024 00:20:03 The 243 element changed status to: CHECKED
+26.12.2024 00:20:03 The 244 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 245 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 246 element changed status to: CHECKED
+26.12.2024 00:20:03 The 247 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 248 element changed status to: CHECKED
+26.12.2024 00:20:03 The 249 element changed status to: CHECKED
+26.12.2024 00:20:03 The 250 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 251 element changed status to: CHECKED
+26.12.2024 00:20:03 The 252 element changed status to: CHECKED
+26.12.2024 00:20:03 The 253 element changed status to: CHECKED
+26.12.2024 00:20:03 The 254 element changed status to: CHECKED
+26.12.2024 00:20:03 The 255 element changed status to: CHECKED
+26.12.2024 00:20:03 The 256 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 257 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 258 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 259 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 260 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 261 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 700 element changed status to: CHECKED
+26.12.2024 00:20:03 The 315 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 701 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 316 element changed status to: CHECKED
+26.12.2024 00:20:03 The 702 element changed status to: CHECKED
+26.12.2024 00:20:03 The 100 element changed status to: CHECKED
+26.12.2024 00:20:03 The 101 element changed status to: CHECKED
+26.12.2024 00:20:03 The 102 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 103 element changed status to: CHECKED
+26.12.2024 00:20:03 The 104 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 105 element changed status to: CHECKED
+26.12.2024 00:20:03 The 106 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 107 element changed status to: CHECKED
+26.12.2024 00:20:03 The 108 element changed status to: CHECKED
+26.12.2024 00:20:03 The 109 element changed status to: DISABLED
+26.12.2024 00:20:03 The 110 element changed status to: DISABLED
+26.12.2024 00:20:03 The 111 element changed status to: DISABLED
+26.12.2024 00:20:03 The 112 element changed status to: DISABLED
+26.12.2024 00:20:03 The 113 element changed status to: DISABLED
+26.12.2024 00:20:03 The 114 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 115 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 116 element changed status to: DISABLED
+26.12.2024 00:20:03 The 117 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 118 element changed status to: CHECKED
+26.12.2024 00:20:03 The 119 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 120 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 121 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 122 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 123 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 124 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 125 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 126 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 127 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 317 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 318 element changed status to: CHECKED
+26.12.2024 00:20:03 The 319 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 800 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 320 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 321 element changed status to: CHECKED
+26.12.2024 00:20:03 The 322 element changed status to: CHECKED
+26.12.2024 00:20:03 The 323 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 324 element changed status to: CHECKED
+26.12.2024 00:20:03 The 325 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 326 element changed status to: CHECKED
+26.12.2024 00:20:03 The 327 element changed status to: CHECKED
+26.12.2024 00:20:03 The 328 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 329 element changed status to: CHECKED
+26.12.2024 00:20:03 The 330 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 331 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 332 element changed status to: CHECKED
+26.12.2024 00:20:03 The 333 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 334 element changed status to: CHECKED
+26.12.2024 00:20:03 The 335 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 336 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 337 element changed status to: CHECKED
+26.12.2024 00:20:03 The 338 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 801 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 339 element changed status to: CHECKED
+26.12.2024 00:20:03 The 340 element changed status to: CHECKED
+26.12.2024 00:20:03 The 341 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 347 element changed status to: CHECKED
+26.12.2024 00:20:03 The 348 element changed status to: UNCHECKED
+26.12.2024 00:20:03 The 350 element changed status to: CHECKED
+26.12.2024 00:20:03 The 349 element changed status to: DISABLED
+26.12.2024 00:20:03 The 802 element changed status to: UNCHECKED
+26.12.2024 00:20:04 The 803 element changed status to: UNCHECKED
+26.12.2024 00:20:04 The 804 element changed status to: UNCHECKED
+26.12.2024 00:20:04 The 805 element changed status to: UNCHECKED
+26.12.2024 00:20:04 The 806 element changed status to: UNCHECKED
+26.12.2024 00:20:04 The 807 element changed status to: UNCHECKED
+26.12.2024 00:20:04 The 808 element changed status to: UNCHECKED
+26.12.2024 00:20:04 The 809 element changed status to: UNCHECKED
+26.12.2024 00:20:04 The 810 element changed status to: UNCHECKED
+26.12.2024 00:20:05 The 811 element changed status to: UNCHECKED
+26.12.2024 00:20:05 The 812 element changed status to: CHECKED
+26.12.2024 00:20:05 The 813 element changed status to: UNCHECKED
+26.12.2024 00:20:05 The 814 element changed status to: CHECKED
+26.12.2024 00:20:15 The 351 element changed status to: UNCHECKED
+26.12.2024 00:20:15 The 352 element changed status to: UNCHECKED
+26.12.2024 00:20:15 The 360 element changed status to: CHECKED
+26.12.2024 00:20:15 The 361 element changed status to: UNCHECKED
+26.12.2024 00:20:15 The 362 element changed status to: UNCHECKED
+26.12.2024 00:20:15 The 353 element changed status to: CHECKED
+26.12.2024 00:20:17 The 354 element changed status to: UNCHECKED
+26.12.2024 00:20:17 The 356 element changed status to: CHECKED
+26.12.2024 00:20:17 The 355 element changed status to: DISABLED
+26.12.2024 00:20:18 The 357 element changed status to: UNCHECKED
+26.12.2024 00:20:18 Initialization of the UWP elements started
+26.12.2024 00:20:18 The 358 element changed status to: DISABLED
+26.12.2024 00:20:18 It took 1 second(s) to initialize the UWP elements
+26.12.2024 00:20:29 Applying setting(s) took 26 second(s)
+26.12.2024 00:20:32 Active view is: ContextMenu
+26.12.2024 00:21:07 The 903 element changed status to: UNCHECKED
+26.12.2024 00:22:31 Applying 1 setting(s) started
+26.12.2024 00:22:31 Customization action 903 with parameter False has been successfully applied
+26.12.2024 00:22:31 The 300 element changed status to: CHECKED
+26.12.2024 00:22:31 The 900 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 600 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 301 element changed status to: CHECKED
+26.12.2024 00:22:31 The 503 element changed status to: CHECKED
+26.12.2024 00:22:31 The 200 element changed status to: CHECKED
+26.12.2024 00:22:31 The 302 element changed status to: CHECKED
+26.12.2024 00:22:31 The 266 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 303 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 201 element changed status to: CHECKED
+26.12.2024 00:22:31 The 267 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 304 element changed status to: CHECKED
+26.12.2024 00:22:31 The 901 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 202 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 204 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 305 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 306 element changed status to: CHECKED
+26.12.2024 00:22:31 The 205 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 206 element changed status to: CHECKED
+26.12.2024 00:22:31 The 902 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 207 element changed status to: CHECKED
+26.12.2024 00:22:31 The 208 element changed status to: CHECKED
+26.12.2024 00:22:31 The 903 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 929 element changed status to: CHECKED
+26.12.2024 00:22:31 The 209 element changed status to: CHECKED
+26.12.2024 00:22:31 The 210 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 213 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 214 element changed status to: CHECKED
+26.12.2024 00:22:31 The 216 element changed status to: CHECKED
+26.12.2024 00:22:31 The 307 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 217 element changed status to: CHECKED
+26.12.2024 00:22:31 The 308 element changed status to: CHECKED
+26.12.2024 00:22:31 The 218 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 309 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 220 element changed status to: CHECKED
+26.12.2024 00:22:31 The 310 element changed status to: CHECKED
+26.12.2024 00:22:31 The 219 element changed status to: CHECKED
+26.12.2024 00:22:31 The 311 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 221 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 222 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 312 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 223 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 314 element changed status to: CHECKED
+26.12.2024 00:22:31 The 228 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 231 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 232 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 233 element changed status to: CHECKED
+26.12.2024 00:22:31 The 234 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 235 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 236 element changed status to: CHECKED
+26.12.2024 00:22:31 The 237 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 238 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 239 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 240 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 242 element changed status to: CHECKED
+26.12.2024 00:22:31 The 243 element changed status to: CHECKED
+26.12.2024 00:22:31 The 244 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 245 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 246 element changed status to: CHECKED
+26.12.2024 00:22:31 The 247 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 248 element changed status to: CHECKED
+26.12.2024 00:22:31 The 249 element changed status to: CHECKED
+26.12.2024 00:22:31 The 250 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 251 element changed status to: CHECKED
+26.12.2024 00:22:31 The 252 element changed status to: CHECKED
+26.12.2024 00:22:31 The 253 element changed status to: CHECKED
+26.12.2024 00:22:31 The 254 element changed status to: CHECKED
+26.12.2024 00:22:31 The 255 element changed status to: CHECKED
+26.12.2024 00:22:31 The 256 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 257 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 258 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 259 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 260 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 261 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 504 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 916 element changed status to: CHECKED
+26.12.2024 00:22:31 The 917 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 918 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 919 element changed status to: CHECKED
+26.12.2024 00:22:31 The 268 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 921 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 269 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 922 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 923 element changed status to: CHECKED
+26.12.2024 00:22:31 The 924 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 925 element changed status to: CHECKED
+26.12.2024 00:22:31 The 700 element changed status to: CHECKED
+26.12.2024 00:22:31 The 701 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 702 element changed status to: CHECKED
+26.12.2024 00:22:31 The 315 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 316 element changed status to: CHECKED
+26.12.2024 00:22:31 The 100 element changed status to: CHECKED
+26.12.2024 00:22:31 The 101 element changed status to: CHECKED
+26.12.2024 00:22:31 The 102 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 103 element changed status to: CHECKED
+26.12.2024 00:22:31 The 104 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 105 element changed status to: CHECKED
+26.12.2024 00:22:31 The 106 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 107 element changed status to: CHECKED
+26.12.2024 00:22:31 The 108 element changed status to: CHECKED
+26.12.2024 00:22:31 The 109 element changed status to: DISABLED
+26.12.2024 00:22:31 The 110 element changed status to: DISABLED
+26.12.2024 00:22:31 The 111 element changed status to: DISABLED
+26.12.2024 00:22:31 The 112 element changed status to: DISABLED
+26.12.2024 00:22:31 The 113 element changed status to: DISABLED
+26.12.2024 00:22:31 The 114 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 115 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 116 element changed status to: DISABLED
+26.12.2024 00:22:31 The 117 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 118 element changed status to: CHECKED
+26.12.2024 00:22:31 The 119 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 120 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 121 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 122 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 123 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 124 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 125 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 126 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 127 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 317 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 318 element changed status to: CHECKED
+26.12.2024 00:22:31 The 319 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 800 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 801 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 320 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 321 element changed status to: CHECKED
+26.12.2024 00:22:31 The 322 element changed status to: CHECKED
+26.12.2024 00:22:31 The 323 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 324 element changed status to: CHECKED
+26.12.2024 00:22:31 The 325 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 326 element changed status to: CHECKED
+26.12.2024 00:22:31 The 327 element changed status to: CHECKED
+26.12.2024 00:22:31 The 328 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 329 element changed status to: CHECKED
+26.12.2024 00:22:31 The 330 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 331 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 332 element changed status to: CHECKED
+26.12.2024 00:22:31 The 333 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 334 element changed status to: CHECKED
+26.12.2024 00:22:31 The 335 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 336 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 337 element changed status to: CHECKED
+26.12.2024 00:22:31 The 338 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 339 element changed status to: CHECKED
+26.12.2024 00:22:31 The 340 element changed status to: CHECKED
+26.12.2024 00:22:31 The 341 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 347 element changed status to: CHECKED
+26.12.2024 00:22:31 The 348 element changed status to: UNCHECKED
+26.12.2024 00:22:31 The 350 element changed status to: CHECKED
+26.12.2024 00:22:31 The 349 element changed status to: DISABLED
+26.12.2024 00:22:32 The 802 element changed status to: UNCHECKED
+26.12.2024 00:22:32 The 803 element changed status to: UNCHECKED
+26.12.2024 00:22:32 The 804 element changed status to: UNCHECKED
+26.12.2024 00:22:32 The 805 element changed status to: UNCHECKED
+26.12.2024 00:22:32 The 806 element changed status to: UNCHECKED
+26.12.2024 00:22:32 The 807 element changed status to: UNCHECKED
+26.12.2024 00:22:32 The 808 element changed status to: UNCHECKED
+26.12.2024 00:22:32 The 809 element changed status to: UNCHECKED
+26.12.2024 00:22:32 The 810 element changed status to: UNCHECKED
+26.12.2024 00:22:33 The 811 element changed status to: UNCHECKED
+26.12.2024 00:22:33 The 812 element changed status to: CHECKED
+26.12.2024 00:22:33 The 813 element changed status to: UNCHECKED
+26.12.2024 00:22:33 The 814 element changed status to: CHECKED
+26.12.2024 00:22:43 The 351 element changed status to: UNCHECKED
+26.12.2024 00:22:43 The 352 element changed status to: UNCHECKED
+26.12.2024 00:22:43 The 360 element changed status to: CHECKED
+26.12.2024 00:22:43 The 361 element changed status to: UNCHECKED
+26.12.2024 00:22:43 The 362 element changed status to: UNCHECKED
+26.12.2024 00:22:43 The 353 element changed status to: CHECKED
+26.12.2024 00:22:45 The 354 element changed status to: UNCHECKED
+26.12.2024 00:22:45 The 356 element changed status to: CHECKED
+26.12.2024 00:22:45 The 355 element changed status to: DISABLED
+26.12.2024 00:22:45 The 357 element changed status to: UNCHECKED
+26.12.2024 00:22:45 Initialization of the UWP elements started
+26.12.2024 00:22:45 The 358 element changed status to: DISABLED
+26.12.2024 00:22:46 It took 1 second(s) to initialize the UWP elements
+26.12.2024 00:22:58 Applying setting(s) took 27 second(s)
+26.12.2024 00:23:32 Active view is: Settings
+26.12.2024 00:23:40 Advanced settings is visible: True
+26.12.2024 00:23:42 Advanced settings is visible: False

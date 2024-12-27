@@ -1,0 +1,25 @@
+-------------------------------------------------------------------------------------------
+Script Win11Debloat - Mode par defaut
+-------------------------------------------------------------------------------------------
+
+Win11Debloat effectuera les modifications suivantes :
+
+- Supprimer la selection par defaut des applications, la liste se trouve dans le fichier Appslist.txt.
+
+- Desactiver la telemetrie, les donnees de diagnostic, le suivi du lancement des applications et les publicites ciblees.
+
+- Desactiver et supprimer la recherche Bing et Cortana dans la recherche Windows.
+
+- Desactiver les trucs et astuces sur l'ecran de verrouillage. (Cela peut modifier le fond d'ecran de votre ecran de verrouillage)
+
+- Desactiver les trucs et astuces, les suggestions et les publicites dans le demarrage, les parametres, les notifications, etc.
+
+- Desactiver Windows Copilot. (Windows 11 build 22621+)
+
+- Afficher les extensions de fichier pour les types de fichiers connus.
+
+- Desactiver le service de widgets et masquer l'icône de la barre des tâches.
+
+- Masquer l'icône Chat (meet now) de la barre des tâches.
+
+- Masquer le dossier des objets 3D dans l'Explorateur Windows. (Windows 10 uniquement)

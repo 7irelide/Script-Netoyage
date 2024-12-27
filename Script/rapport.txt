@@ -1,0 +1,87 @@
+-------------------------------------------------------------------------------------------
+                               Win11Debloat Script - RÃ©capitulatif
+-------------------------------------------------------------------------------------------
+Bienvenue dans Win11Debloat ! Ce script va optimiser et nettoyer votre Windows.
+Voici le dÃ©tail des modifications qui seront effectuÃ©es :
+
+1. Nettoyage des Applications :
+   - Suppression des applications prÃ©installÃ©es non essentielles (Candy Crush, Xbox, etc.)
+   - Option de personnalisation : vous pourrez choisir les applications Ã  conserver
+   - La liste complÃ¨te des applications est disponible dans le fichier Appslist.txt
+
+2. Protection de la Vie PrivÃ©e :
+   - DÃ©sactivation de la collecte de donnÃ©es par Microsoft (tÃ©lÃ©mÃ©trie)
+   - ArrÃªt du suivi de vos activitÃ©s et lancements d'applications
+   - Blocage des publicitÃ©s personnalisÃ©es basÃ©es sur votre utilisation
+
+3. Optimisation de la Recherche :
+   - Suppression de Cortana et de ses processus en arriÃ¨re-plan
+   - DÃ©sactivation de Bing dans la recherche Windows pour plus de rapiditÃ©
+   - Recherche locale uniquement, sans envoi de donnÃ©es Ã  Microsoft
+
+4. AmÃ©lioration de l'Interface :
+   - Suppression des conseils et publicitÃ©s de l'Ã©cran de verrouillage
+   - DÃ©sactivation des suggestions Windows et notifications promotionnelles
+   - DÃ©sactivation de Copilot (assistant IA de Windows 11)
+   - Activation du thÃ¨me sombre pour une meilleure lisibilitÃ© (systÃ¨me + applications)
+
+5. Configuration de l'Explorateur :
+   - Affichage des extensions de fichiers pour plus de sÃ©curitÃ©
+   - Nettoyage de l'interface (suppression dossier 3D Objects sur Windows 10)
+   - Organisation optimisÃ©e des dossiers systÃ¨me
+
+6. Optimisation de la Barre des tÃ¢ches :
+   - Suppression des widgets pour libÃ©rer des ressources
+   - Masquage de l'icÃ´ne Chat/Teams pour une interface Ã©purÃ©e
+   - AmÃ©lioration des performances systÃ¨me
+
+-------------------------------------------------------------------------------------------
+Note : Ces modifications sont recommandÃ©es pour optimiser Windows et protÃ©ger votre vie privÃ©e.
+Un redÃ©marrage sera nÃ©cessaire pour appliquer certains changements.
+-------------------------------------------------------------------------------------------
+Appuyez sur une touche pour dÃ©marrer l'optimisation, ou CTRL+C pour annuler...
+
+DÃ©but de la configuration Windows 11...
+> Suppression des applications par dÃ©faut...
+> DÃ©sactivation de la tÃ©lÃ©mÃ©trie...
+> DÃ©sactivation des suggestions...
+> DÃ©sactivation de Bing...
+> DÃ©sactivation de Copilot...
+
+
+    Hive: HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
+
+
+Name                           Property
+----                           --------
+WindowsCopilot
+> Configuration de l'explorateur...
+> Configuration de la barre des tÃ¢ches...
+> DÃ©sactivation des widgets...
+Set-ItemProperty : Tentative d'exécution d'une opération non autorisée.
+Au caractère C:\Users\Fabien\Desktop\_FR - Win11Debloat-master\Win11Debloat.ps1:134 : 1
++ Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersi ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (TaskbarDa:String) [Set-ItemProperty], UnauthorizedAccessException
+    + FullyQualifiedErrorId : System.UnauthorizedAccessException,Microsoft.PowerShell.Commands.SetItemPropertyCommand
+
+> Restauration du menu contextuel Windows 10...
+
+
+    Hive: HKEY_CURRENT_USER\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}
+
+
+Name                           Property
+----                           --------
+InprocServer32
+> RedÃ©marrage de l'explorateur...
+> DÃ©sactivation des trucs et astuces sur l'Ã©cran de verrouillage...
+> DÃ©sactivation des donnÃ©es de diagnostic et du suivi...
+> DÃ©sactivation du suivi des lancements d'applications...
+> Masquage du dossier des objets 3D...
+> DÃ©sactivation des publicitÃ©s ciblÃ©es...
+
+Configuration terminÃ©e avec succÃ¨s !
+Un redÃ©marrage est recommandÃ© pour appliquer tous les changements.
+
+Appuyez sur une touche pour quitter...

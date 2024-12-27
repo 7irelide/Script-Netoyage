@@ -1,0 +1,23 @@
+Windows 10 Pro 24H2 build 26100.2605
+Computer name: DESKTOP-AAP9FV2
+User: fabien
+User domain: DESKTOP-AAP9FV2
+User culture: French (France)
+User region: France
+App version: 1.0.97.0
+App is release: True
+App folder: "C:\Users\fabien\Downloads\SophiApp\SophiApp\"
+App localization: FR
+App theme: DARK
+
+26.12.2024 01:05:04 Debug mode is: False
+26.12.2024 01:05:05 Active view is: Loading
+26.12.2024 01:05:05 Advanced settings is visible: False
+26.12.2024 01:05:05 The "UWP for all users" switch state is: UNCHECKED
+26.12.2024 01:05:05 The OS conditions check started
+26.12.2024 01:05:05 OsVersionCondition run result: True
+26.12.2024 01:05:05 The next condition to be run: OsBuildVersionCondition
+26.12.2024 01:05:05 OsBuildVersionCondition run result: False
+26.12.2024 01:05:05 The next condition to be run: OsFilesCorruptedCondition
+26.12.2024 01:05:05 Active view is: OsBuildVersion
+26.12.2024 01:05:10 It took 5 second(s) to check the OS conditions

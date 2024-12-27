@@ -1,0 +1,200 @@
+#Requires -RunAsAdministrator
+
+[CmdletBinding(SupportsShouldProcess = $true)]
+param (
+    [switch]$Silent
+)
+
+Clear-Host
+
+# Affichage du récapitulatif initial
+Write-Output "-------------------------------------------------------------------------------------------"
+Write-Output "                               Win11Debloat Script - Récapitulatif                          "
+Write-Output "-------------------------------------------------------------------------------------------"
+Write-Output "Bienvenue dans Win11Debloat ! Ce script va optimiser et nettoyer votre Windows."
+Write-Output "Voici le détail des modifications qui seront effectuées :"
+Write-Output ""
+Write-Output "1. Nettoyage des Applications :"
+Write-Output "   - Suppression des applications préinstallées non essentielles (Candy Crush, Xbox, etc.)"
+Write-Output "   - Option de personnalisation : vous pourrez choisir les applications à conserver"
+Write-Output "   - La liste complète des applications est disponible dans le fichier Appslist.txt"
+Write-Output ""
+Write-Output "2. Protection de la Vie Privée :"
+Write-Output "   - Désactivation de la collecte de données par Microsoft (télémétrie)"
+Write-Output "   - Arrêt du suivi de vos activités et lancements d'applications"
+Write-Output "   - Blocage des publicités personnalisées basées sur votre utilisation"
+Write-Output ""
+Write-Output "3. Optimisation de la Recherche :"
+Write-Output "   - Suppression de Cortana et de ses processus en arrière-plan"
+Write-Output "   - Désactivation de Bing dans la recherche Windows pour plus de rapidité"
+Write-Output "   - Recherche locale uniquement, sans envoi de données à Microsoft"
+Write-Output ""
+Write-Output "4. Amélioration de l'Interface :"
+Write-Output "   - Suppression des conseils et publicités de l'écran de verrouillage"
+Write-Output "   - Désactivation des suggestions Windows et notifications promotionnelles"
+Write-Output "   - Désactivation de Copilot (assistant IA de Windows 11)"
+Write-Output "   - Activation du thème sombre pour une meilleure lisibilité (système + applications)"
+Write-Output ""
+Write-Output "5. Configuration de l'Explorateur :"
+Write-Output "   - Affichage des extensions de fichiers pour plus de sécurité"
+Write-Output "   - Nettoyage de l'interface (suppression dossier 3D Objects sur Windows 10)"
+Write-Output "   - Organisation optimisée des dossiers système"
+Write-Output ""
+Write-Output "6. Optimisation de la Barre des tâches :"
+Write-Output "   - Suppression des widgets pour libérer des ressources"
+Write-Output "   - Masquage de l'icône Chat/Teams pour une interface épurée"
+Write-Output "   - Amélioration des performances système"
+Write-Output ""
+Write-Output "-------------------------------------------------------------------------------------------"
+Write-Output "Note : Ces modifications sont recommandées pour optimiser Windows et protéger votre vie privée."
+Write-Output "Un redémarrage sera nécessaire pour appliquer certains changements."
+Write-Output "-------------------------------------------------------------------------------------------"
+Write-Output "Appuyez sur une touche pour démarrer l'optimisation, ou CTRL+C pour annuler..."
+if (-not $Silent) {
+    Pause
+}
+Write-Output ""
+
+# Vérification des droits d'administration
+$isAdmin = ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)
+if (-not $isAdmin) {
+    Write-Host "Erreur : Ce script doit être exécuté en tant qu'administrateur!" -ForegroundColor Red
+    Pause
+    Exit
+}
+
+Write-Output "Début de la configuration Windows 11..."
+
+# Suppression des applications par défaut
+Write-Output "> Suppression des applications par défaut..."
+$apps = @(
+    "Microsoft.BingNews"
+    "Microsoft.BingWeather"
+    "Microsoft.GamingApp"
+    "Microsoft.GetHelp"
+    "Microsoft.Getstarted"
+    "Microsoft.MicrosoftOfficeHub"
+    "Microsoft.MicrosoftSolitaireCollection"
+    "Microsoft.People"
+    "Microsoft.PowerAutomateDesktop"
+    "Microsoft.WindowsFeedbackHub"
+    "Microsoft.WindowsMaps"
+    "Microsoft.WindowsSoundRecorder"
+    "Microsoft.Xbox.TCUI"
+    "Microsoft.XboxGameOverlay"
+    "Microsoft.XboxGamingOverlay"
+    "Microsoft.XboxIdentityProvider"
+    "Microsoft.XboxSpeechToTextOverlay"
+    "Microsoft.YourPhone"
+    "Microsoft.ZuneMusic"
+    "Microsoft.ZuneVideo"
+    "MicrosoftTeams"
+    "microsoft.windowscommunicationsapps"
+)
+
+foreach ($app in $apps) {
+    Get-AppxPackage -Name $app -AllUsers | Remove-AppxPackage -AllUsers
+    Get-AppxProvisionedPackage -Online | Where-Object DisplayName -like $app | Remove-AppxProvisionedPackage -Online
+}
+
+# Désactivation de la télémétrie
+Write-Output "> Désactivation de la télémétrie..."
+Set-ItemProperty -Path "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\DataCollection" -Name "AllowTelemetry" -Value 0
+Set-ItemProperty -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows\DataCollection" -Name "AllowTelemetry" -Value 0
+
+# Désactivation des suggestions Windows
+Write-Output "> Désactivation des suggestions..."
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" -Name "SubscribedContent-338388Enabled" -Value 0
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" -Name "SubscribedContent-338389Enabled" -Value 0
+
+# Désactivation de Bing dans la recherche
+Write-Output "> Désactivation de Bing..."
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Search" -Name "BingSearchEnabled" -Value 0
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Search" -Name "CortanaConsent" -Value 0
+
+# Désactivation de Copilot
+Write-Output "> Désactivation de Copilot..."
+if (!(Test-Path "HKCU:\Software\Policies\Microsoft\Windows\WindowsCopilot")) {
+    New-Item -Path "HKCU:\Software\Policies\Microsoft\Windows\WindowsCopilot" -Force
+}
+Set-ItemProperty -Path "HKCU:\Software\Policies\Microsoft\Windows\WindowsCopilot" -Name "TurnOffWindowsCopilot" -Value 1
+
+# Configuration de l'explorateur
+Write-Output "> Configuration de l'explorateur..."
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" -Name "LaunchTo" -Value 1
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" -Name "Hidden" -Value 1
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" -Name "HideFileExt" -Value 0
+
+# Configuration de la barre des tâches
+Write-Output "> Configuration de la barre des tâches..."
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Search" -Name "SearchboxTaskbarMode" -Value 0
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" -Name "ShowTaskViewButton" -Value 0
+
+# Désactivation des widgets
+Write-Output "> Désactivation des widgets..."
+if (!(Test-Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced")) {
+    New-Item -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" -Force
+}
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" -Name "TaskbarDa" -Value 0
+
+# Restauration du menu contextuel Windows 10
+Write-Output "> Restauration du menu contextuel Windows 10..."
+if (!(Test-Path "HKCU:\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32")) {
+    New-Item -Path "HKCU:\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" -Force
+}
+Set-ItemProperty -Path "HKCU:\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" -Name "(Default)" -Value ""
+
+# Activation du mode sombre Windows (à placer avant le redémarrage de l'explorateur)
+Write-Output "> Activation du mode sombre..."
+if (!(Test-Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize")) {
+    New-Item -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize" -Force
+}
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize" -Name "AppsUseLightTheme" -Value 0
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize" -Name "SystemUsesLightTheme" -Value 0
+
+# Pour l'explorateur de fichiers
+if (!(Test-Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Themes")) {
+    New-Item -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Themes" -Force
+}
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Themes" -Name "AppsUseLightTheme" -Value 0
+
+Write-Output ""
+
+# Redémarrage de l'explorateur
+Write-Output "> Redémarrage de l'explorateur..."
+Stop-Process -Name explorer -Force
+Start-Process explorer
+
+# Désactivation des trucs et astuces sur l'écran de verrouillage
+Write-Output "> Désactivation des trucs et astuces sur l'écran de verrouillage..."
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" -Name "RotatingLockScreenEnabled" -Value 0
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" -Name "RotatingLockScreenOverlayEnabled" -Value 0
+
+# Désactivation des données de diagnostic et du suivi
+Write-Output "> Désactivation des données de diagnostic et du suivi..."
+Set-ItemProperty -Path "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\DataCollection" -Name "AllowTelemetry" -Value 0
+Set-ItemProperty -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows\DataCollection" -Name "AllowTelemetry" -Value 0
+Set-ItemProperty -Path "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Diagnostics\DiagTrack\EventTranscriptKey" -Name "EnableEventTranscript" -Value 0
+
+# Désactivation du suivi des lancements d'applications
+Write-Output "> Désactivation du suivi des lancements d'applications..."
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" -Name "Start_TrackProgs" -Value 0
+
+# Masquage du dossier des objets 3D (Windows 10)
+Write-Output "> Masquage du dossier des objets 3D..."
+if (Test-Path "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{0DB7E03F-FC29-4DC6-9020-FF41B59E513A}") {
+    Remove-Item -Path "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{0DB7E03F-FC29-4DC6-9020-FF41B59E513A}" -Force
+}
+
+# Désactivation des publicités ciblées
+Write-Output "> Désactivation des publicités ciblées..."
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\AdvertisingInfo" -Name "Enabled" -Value 0
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Privacy" -Name "TailoredExperiencesWithDiagnosticDataEnabled" -Value 0
+
+Write-Output ""
+Write-Output "Configuration terminée avec succès !"
+Write-Output "Un redémarrage est recommandé pour appliquer tous les changements."
+Write-Output ""
+if (-not $Silent) {
+    Pause
+} 

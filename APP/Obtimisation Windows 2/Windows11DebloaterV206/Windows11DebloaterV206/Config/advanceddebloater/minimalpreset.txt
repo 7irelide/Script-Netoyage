@@ -1,0 +1,4 @@
+Creating Restore Point in case something bad happens
+Running O&O Shutup with Recommended Settings
+Disabling Telemetry
+Setting Services to Manual

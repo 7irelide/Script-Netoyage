@@ -1,0 +1,7 @@
+SupprimerApps # Supprimer la sélection par défaut d'applications
+DesactiverTelemetrie # Désactiver la télémétrie, les données de diagnostic, l'historique d'activité, le suivi de lancement d'applications et les publicités ciblées
+DesactiverSuggestions # Désactiver les astuces, conseils, suggestions et publicités dans Windows
+DesactiverBing # Désactiver la recherche web Bing, l'IA Bing et Cortana dans la recherche Windows
+DesactiverAstucesEcranVerrouillage # Désactiver les astuces et conseils sur l'écran de verrouillage
+AfficherExtensionsFichiers # Afficher les extensions pour les types de fichiers connus
+AfficherDossiersCache # Afficher les fichiers, dossiers et lecteurs cachés

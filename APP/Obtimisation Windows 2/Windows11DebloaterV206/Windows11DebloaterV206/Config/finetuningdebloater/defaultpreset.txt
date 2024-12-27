@@ -1,0 +1,159 @@
+<#browsersthird#>
+
+<#communicationsthird#>
+
+<#developmentthird#>
+
+<#documentthird#>
+
+<#gamesthird#>
+
+<#microsofttoolsthird#>
+
+<#multimediatoolsthird#>
+
+<#protoolsthird#>
+
+<#utilitiesthird#>
+
+<#windowsapps#>
+
+<#privacytelemetry#>
+	"EnableDiagTrackService",
+	"DefaultDiagnosticDataLevel",
+	"EnableErrorReporting",
+	"AutomaticallyFeedbackFrequency",
+	"EnableSigninInfo",
+	"EnableLanguageListAccess",
+	"EnableAdvertisingID",
+	"ShowWindowsWelcomeExperience",
+	"DisableWindowsTips",
+	"ShowSettingsSuggestedContent",
+	"EnableAppsSilentInstalling",
+	"EnableWhatsNewInWindows",
+	"EnableBingSearch",
+	"ShowBrowsingHistory"
+
+<#uiperson#>
+	"HideThisPC",
+	"DisableWindows10FileExplorer",
+	"EnableCheckBoxes",
+	"DisableHiddenItems",
+	"HideFileExtensions",
+	"HideMergeConflicts",
+	"QuickAccessOpenFileExplorerTo",
+	"EnableFileExplorerCompactMode",
+	"ShowOneDriveFileExplorerAd",
+	"EnableSnapAssist",
+	"CompactFileTransferDialog",
+	"DisableRecycleBinDeleteConfirmation",
+	"ShowQuickAccessRecentFiles",
+	"CenterTaskbarAlignment",
+	"ShowTaskbarSearch",
+	"ShowTaskViewButton",
+	"ShowTaskbarWidgets",
+	"ShowCopilotButton",
+	"HideSecondsInSystemClock",
+	"ShowTaskbarChat",
+	"LightWindowsColorMode",
+	"LightAppColorMode",
+	"EnableFirstLogonAnimation",
+	"DefaultJPEGWallpapersQuality",
+	"CompactTaskManagerWindow",
+	"EnableShortcutsSuffix",
+	"DisablePrtScnSnippingTool",
+	"EnableAppsLanguageSwitch",
+	"EnableAeroShaking",
+	"DefaultFolderGroupBy",
+	"DisableNavigationPaneExpand"
+
+<#onedrive#>
+
+<#system#>
+	"DisableStorageSense",
+	"EnableStorageSenseTempFiles",
+	"DefaultStorageSenseFrequency",
+	"EnableHibernation",
+	"EnableWin32LongPathLimit",
+	"DisableBSoDStopError",
+	"DefaultAdminApprovalMode",
+	"DisableMappedDrivesAppElevatedAccess",
+	"EnableDeliveryOptimization",
+	"DisableWaitNetworkStartup",
+	"EnableWindowsManageDefaultPrinter",
+	"DisableUpdateMicrosoftProducts",
+	"BalancedPowerPlan",
+	"DisableLatestInstalledNET",
+	"EnableNetworkAdaptersSavePower",
+	"DefaultInputMethod",
+	"DefaultWinPrtScrFolder",
+	"DefaultRecommendedTroubleshooting",
+	"DisableFoldersLaunchSeparateProcess",
+	"EnableReservedStorage",
+	"EnableF1HelpPage",
+	"DisableNumLock",
+	"EnableStickyShift",
+	"EnableAutoplay",
+	"EnableThumbnailCacheRemoval",
+	"DisableSaveRestartableApps",
+	"DisableNetworkDiscovery",
+	"ShowRestartNotification",
+	"DisableRestartDeviceAfterUpdate",
+	"ManuallyActiveHours",
+	"DisableWindowsLatestUpdate",
+	"DisableRestartDeviceAfterUpdate",
+	"ConsoleHostDefaultTerminalApp",
+	"DefaultSATADrivesRemovableMedia"
+
+<#startmenu#>
+	"ShowRecentlyAddedApps",
+	"NonElevatedRunPowerShellShortcut"
+
+<#uwpapps#>
+	"EnableCortanaAutostart",
+	"EnableTeamsAutostart"
+
+<#gaming#>
+	"EnableXboxGameTips",
+	"DisableGPUScheduling"
+
+<#defendersecurity#>
+	"DisableNetworkProtection",
+	"DisablePUAppsDetection",
+	"DisableDefenderSandbox",
+	"DisableAuditProcess",
+	"DisableCommandLineProcessAudit",
+	"DisableEventViewerCustomView",
+	"DisablePowerShellModulesLogging",
+	"DisablePowerShellScriptsLogging",
+	"EnableAppsSmartScreen",
+	"EnableSaveZoneInformation",
+	"EnableWindowsScriptHost",
+	"EnableWindowsSandbox"
+
+<#contextmenu#>
+	"HideMSIExtractContext",
+	"HideCABInstallContext",
+	"HideRunAsDifferentUserContext",
+	"ShowCastToDeviceContext",
+	"ShowShareContext",
+	"ShowEditWithClipchampContext",
+	"ShowCreateANewVideoContext",
+	"ShowPrintCMDContext",
+	"ShowIncludeInLibraryContext",
+	"ShowSendToContext",
+	"ShowBitLockerContext",
+	"ShowCompressedFolderNewContext",
+	"DisableMultipleInvokeContext",
+	"ShowUseStoreOpenWith",
+	"ShowOpenWindowsTerminalContext",
+	"DisableOpenWindowsTerminalAdminContext",
+	"DisableWindows10ContextMenu"
+
+<#other#>
+	"LargeTaskbarSize",
+	"NeverCombineTaskbar",
+	"CategoryControlPanelView",
+	"DefaultStartLayout"
+
+<#end#>

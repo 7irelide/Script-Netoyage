@@ -1,0 +1,11 @@
+Creating Restore Point in case something bad happens
+Running O&O Shutup with Recommended Settings
+Disabling Telemetry
+Disabling Wi-Fi Sense
+Disabling Activity History
+Disabling Location Tracking
+Disabling Storage Sense
+Disabling GameDVR
+Setting Services to Manual
+Enabling Power Throttling
+Disabling NumLock after startup
